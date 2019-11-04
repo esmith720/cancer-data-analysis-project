@@ -1,0 +1,1051 @@
+Sex,Race/Ethnicity,Age,Stage,AgeadjustedRateper100000,Age-adjusted Rate Standard Error,Age-adjusted Rate Lower Confidence Interval,Age-adjusted Rate Upper Confidence Interval
+Both Sexes,All Races (includes Hispanic),All Ages,All Stages,38.5775,0.0785,38.4238,38.7317
+Both Sexes,All Races (includes Hispanic),All Ages,Localized,14.7455,0.0485,14.6506,14.8408
+Both Sexes,All Races (includes Hispanic),All Ages,Regional,13.3238,0.0462,13.2334,13.4148
+Both Sexes,All Races (includes Hispanic),All Ages,Distant,8.0771,0.0359,8.0069,8.1479
+Both Sexes,All Races (includes Hispanic),All Ages,Unstaged,2.4311,0.0195,2.3929,2.4697
+Both Sexes,All Races (includes Hispanic),Ages < 50,All Stages,7.6136,0.0452,7.5252,7.7028
+Both Sexes,All Races (includes Hispanic),Ages < 50,Localized,2.5825,0.0263,2.5313,2.6345
+Both Sexes,All Races (includes Hispanic),Ages < 50,Regional,2.7861,0.0274,2.7326,2.8404
+Both Sexes,All Races (includes Hispanic),Ages < 50,Distant,1.9509,0.0229,1.9062,1.9964
+Both Sexes,All Races (includes Hispanic),Ages < 50,Unstaged,0.2941,0.0089,0.277,0.3121
+Both Sexes,All Races (includes Hispanic),Ages 50-64,All Stages,70.0525,0.2487,69.5659,70.5417
+Both Sexes,All Races (includes Hispanic),Ages 50-64,Localized,28.0014,0.1578,27.693,28.3123
+Both Sexes,All Races (includes Hispanic),Ages 50-64,Regional,23.4603,0.1437,23.1795,23.7436
+Both Sexes,All Races (includes Hispanic),Ages 50-64,Distant,15.3658,0.1161,15.1391,15.595
+Both Sexes,All Races (includes Hispanic),Ages 50-64,Unstaged,3.2251,0.0534,3.1213,3.3315
+Both Sexes,All Races (includes Hispanic),Ages 65+,All Stages,178.5219,0.4812,177.5799,179.4676
+Both Sexes,All Races (includes Hispanic),Ages 65+,Localized,68.6583,0.2991,68.0733,69.2472
+Both Sexes,All Races (includes Hispanic),Ages 65+,Regional,61.6328,0.2832,61.0791,62.1903
+Both Sexes,All Races (includes Hispanic),Ages 65+,Distant,34.5061,0.2112,34.0933,34.9226
+Both Sexes,All Races (includes Hispanic),Ages 65+,Unstaged,13.7246,0.1316,13.4679,13.985
+Both Sexes,All Races (includes Hispanic),Ages <15,All Stages,0.1659,0.0122,0.1428,0.1916
+Both Sexes,All Races (includes Hispanic),Ages <15,Localized,0.1334,0.011,0.1128,0.1567
+Both Sexes,All Races (includes Hispanic),Ages <15,Regional,0.0243,0.0047,0.016,0.0354
+Both Sexes,All Races (includes Hispanic),Ages <15,Distant,-,-,-,-
+Both Sexes,All Races (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Both Sexes,All Races (includes Hispanic),Ages 15-39,All Stages,4.5364,0.0496,4.4396,4.6347
+Both Sexes,All Races (includes Hispanic),Ages 15-39,Localized,1.6667,0.0298,1.6088,1.7261
+Both Sexes,All Races (includes Hispanic),Ages 15-39,Regional,1.5709,0.0294,1.5139,1.6295
+Both Sexes,All Races (includes Hispanic),Ages 15-39,Distant,1.0863,0.0245,1.0388,1.1352
+Both Sexes,All Races (includes Hispanic),Ages 15-39,Unstaged,0.2125,0.0107,0.192,0.2346
+Both Sexes,All Races (includes Hispanic),Ages 40-64,All Stages,47.2769,0.1524,46.9787,47.5766
+Both Sexes,All Races (includes Hispanic),Ages 40-64,Localized,17.9243,0.0933,17.742,18.108
+Both Sexes,All Races (includes Hispanic),Ages 40-64,Regional,16.3571,0.09,16.1812,16.5346
+Both Sexes,All Races (includes Hispanic),Ages 40-64,Distant,10.9534,0.0738,10.8093,11.099
+Both Sexes,All Races (includes Hispanic),Ages 40-64,Unstaged,2.0421,0.0314,1.9811,2.1046
+Both Sexes,All Races (includes Hispanic),Ages 65-74,All Stages,135.1976,0.5528,134.1162,136.2855
+Both Sexes,All Races (includes Hispanic),Ages 65-74,Localized,54.3205,0.3505,53.6356,55.0119
+Both Sexes,All Races (includes Hispanic),Ages 65-74,Regional,46.828,0.3254,46.1924,47.47
+Both Sexes,All Races (includes Hispanic),Ages 65-74,Distant,27.6918,0.2499,27.2041,28.186
+Both Sexes,All Races (includes Hispanic),Ages 65-74,Unstaged,6.3574,0.1203,6.1238,6.5975
+Both Sexes,All Races (includes Hispanic),Ages 75+,All Stages,225.9281,0.8061,224.3509,227.5135
+Both Sexes,All Races (includes Hispanic),Ages 75+,Localized,84.3471,0.4954,83.3789,85.3236
+Both Sexes,All Races (includes Hispanic),Ages 75+,Regional,77.8326,0.4742,76.9059,78.7676
+Both Sexes,All Races (includes Hispanic),Ages 75+,Distant,41.9624,0.3477,41.2837,42.6494
+Both Sexes,All Races (includes Hispanic),Ages 75+,Unstaged,21.786,0.2421,21.314,22.266
+Both Sexes,All Races (includes Hispanic),Ages < 20,All Stages,0.369,0.0155,0.3391,0.4007
+Both Sexes,All Races (includes Hispanic),Ages < 20,Localized,0.2873,0.0137,0.2611,0.3155
+Both Sexes,All Races (includes Hispanic),Ages < 20,Regional,0.0556,0.006,0.0444,0.0688
+Both Sexes,All Races (includes Hispanic),Ages < 20,Distant,0.0176,0.0034,0.0116,0.0256
+Both Sexes,All Races (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),All Ages,All Stages,39.3049,1.1402,37.1017,41.5968
+Both Sexes,American Indian / Alaska Native (includes Hispanic),All Ages,Localized,14.0103,0.6615,12.7435,15.3626
+Both Sexes,American Indian / Alaska Native (includes Hispanic),All Ages,Regional,13.7841,0.6821,12.4795,15.1791
+Both Sexes,American Indian / Alaska Native (includes Hispanic),All Ages,Distant,8.9442,0.5455,7.907,10.0711
+Both Sexes,American Indian / Alaska Native (includes Hispanic),All Ages,Unstaged,2.5663,0.3157,1.9852,3.2485
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages < 50,All Stages,6.8868,0.4937,5.9531,7.9166
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages < 50,Localized,2.5447,0.2994,1.9919,3.1943
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages < 50,Regional,2.2776,0.2828,1.7573,2.8946
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages < 50,Distant,1.9578,0.2651,1.473,2.541
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages < 50,Unstaged,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 50-64,All Stages,71.0637,3.1297,65.0612,77.4704
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 50-64,Localized,29.3942,2.0121,25.5826,33.6129
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 50-64,Regional,24.2299,1.8289,20.7777,28.0907
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 50-64,Distant,14.2735,1.4016,11.659,17.2989
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 50-64,Unstaged,3.1661,0.661,2.0057,4.7521
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 65+,All Stages,187.2389,7.7207,172.4104,203.0007
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 65+,Localized,61.4051,4.3309,53.2095,70.5199
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 65+,Regional,67.2729,4.6687,58.4331,77.0652
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 65+,Distant,42.6228,3.6819,35.7122,50.4804
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 65+,Unstaged,15.9382,2.345,11.6771,21.2124
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages <15,All Stages,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages <15,Localized,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages <15,Regional,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages <15,Distant,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 15-39,All Stages,4.0311,0.5123,3.09,5.1559
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 15-39,Localized,1.5548,0.311,1.0061,2.2853
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 15-39,Regional,1.3803,0.2986,0.8584,2.0887
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 15-39,Distant,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 15-39,Unstaged,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 40-64,All Stages,46.6925,1.8452,43.1456,50.457
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 40-64,Localized,18.7463,1.167,16.5286,21.1829
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 40-64,Regional,15.7059,1.0689,13.6806,17.9506
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 40-64,Distant,10.5104,0.883,8.851,12.3932
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 40-64,Unstaged,1.7299,0.347,1.1178,2.5666
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 65-74,All Stages,145.0356,8.2469,129.3206,162.1163
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 65-74,Localized,58.1007,5.208,48.3422,69.2352
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 65-74,Regional,46.1769,4.6372,37.537,56.1955
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 65-74,Distant,34.42,4.0537,26.9362,43.3107
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 65-74,Unstaged,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 75+,All Stages,233.4186,13.4164,207.8608,261.2564
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 75+,Localized,65.0208,7.0561,51.93,80.4201
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 75+,Regional,90.3565,8.3575,74.7201,108.3025
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 75+,Distant,51.5984,6.3071,39.9823,65.5422
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages 75+,Unstaged,26.4429,4.5369,18.3093,36.9528
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages < 20,All Stages,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages < 20,Localized,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages < 20,Regional,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Both Sexes,American Indian / Alaska Native (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Both Sexes,Asian / Pacific Islander (includes Hispanic),All Ages,All Stages,31.8252,0.2348,31.3666,32.2888
+Both Sexes,Asian / Pacific Islander (includes Hispanic),All Ages,Localized,12.0883,0.1442,11.8073,12.3743
+Both Sexes,Asian / Pacific Islander (includes Hispanic),All Ages,Regional,11.2781,0.14,11.0053,11.5559
+Both Sexes,Asian / Pacific Islander (includes Hispanic),All Ages,Distant,6.2227,0.1035,6.0214,6.429
+Both Sexes,Asian / Pacific Islander (includes Hispanic),All Ages,Unstaged,2.2361,0.0634,2.1135,2.3639
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages < 50,All Stages,6.089,0.1197,5.8566,6.3283
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages < 50,Localized,1.8789,0.0665,1.7509,2.0139
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages < 50,Regional,2.3942,0.0751,2.2492,2.5462
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages < 50,Distant,1.5767,0.0609,1.4597,1.7008
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages < 50,Unstaged,0.2391,0.0236,0.1951,0.2903
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 50-64,All Stages,62.6502,0.7649,61.1599,64.1676
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 50-64,Localized,26.0263,0.4951,25.0648,27.0151
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 50-64,Regional,21.3394,0.4458,20.4746,22.2313
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 50-64,Distant,12.1713,0.3352,11.5232,12.8465
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 50-64,Unstaged,3.1132,0.1698,2.7892,3.4645
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 65+,All Stages,142.6077,1.4692,139.7425,145.5169
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 65+,Localized,54.0062,0.901,52.2545,55.8018
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 65+,Regional,50.2063,0.8733,48.5092,51.9477
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 65+,Distant,25.7656,0.6255,24.5541,27.0214
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 65+,Unstaged,12.6296,0.4391,11.7835,13.5203
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages <15,All Stages,-,-,-,-
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages <15,Localized,-,-,-,-
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages <15,Regional,-,-,-,-
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages <15,Distant,-,-,-,-
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 15-39,All Stages,3.2931,0.1219,3.0584,3.541
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 15-39,Localized,1.062,0.0693,0.9305,1.2067
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 15-39,Regional,1.2363,0.0749,1.0939,1.392
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 15-39,Distant,0.8406,0.0615,0.7244,0.9701
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 15-39,Unstaged,0.1543,0.0262,0.1072,0.215
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 40-64,All Stages,41.5112,0.4506,40.6327,42.4041
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 40-64,Localized,16.0487,0.2793,15.5059,16.6059
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 40-64,Regional,14.766,0.2694,14.2425,15.3039
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 40-64,Distant,8.7712,0.2077,8.3687,9.1882
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 40-64,Unstaged,1.9253,0.0962,1.7414,2.1236
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 65-74,All Stages,115.2885,1.7175,111.9466,118.7047
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 65-74,Localized,47.7757,1.1015,45.641,49.9846
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 65-74,Regional,40.4768,1.0196,38.5027,42.5255
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 65-74,Distant,20.4965,0.7255,19.0991,21.969
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 65-74,Unstaged,6.5395,0.4129,5.7552,7.4002
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 75+,All Stages,172.5009,2.4362,167.7586,177.343
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 75+,Localized,60.8237,1.4519,58.011,63.737
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 75+,Regional,60.8526,1.4491,58.0453,63.7603
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 75+,Distant,31.5311,1.0421,29.5215,33.6412
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages 75+,Unstaged,19.2935,0.801,17.7553,20.9303
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages < 20,All Stages,0.1644,0.0336,0.1053,0.2446
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages < 20,Localized,-,-,-,-
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages < 20,Regional,-,-,-,-
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Both Sexes,Asian / Pacific Islander (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Both Sexes,Black (includes Hispanic),All Ages,All Stages,44.5875,0.2611,44.0772,45.1021
+Both Sexes,Black (includes Hispanic),All Ages,Localized,16.4169,0.1575,16.1098,16.7284
+Both Sexes,Black (includes Hispanic),All Ages,Regional,13.9813,0.1467,13.6953,14.2716
+Both Sexes,Black (includes Hispanic),All Ages,Distant,10.9986,0.129,10.7472,11.2542
+Both Sexes,Black (includes Hispanic),All Ages,Unstaged,3.1907,0.0723,3.0504,3.3354
+Both Sexes,Black (includes Hispanic),Ages < 50,All Stages,8.1401,0.1283,7.8905,8.3952
+Both Sexes,Black (includes Hispanic),Ages < 50,Localized,2.568,0.0718,2.4292,2.7123
+Both Sexes,Black (includes Hispanic),Ages < 50,Regional,2.8733,0.0764,2.7255,3.0267
+Both Sexes,Black (includes Hispanic),Ages < 50,Distant,2.327,0.0687,2.1943,2.4653
+Both Sexes,Black (includes Hispanic),Ages < 50,Unstaged,0.3719,0.0275,0.32,0.4295
+Both Sexes,Black (includes Hispanic),Ages 50-64,All Stages,90.2496,0.8133,88.6624,91.858
+Both Sexes,Black (includes Hispanic),Ages 50-64,Localized,36.1302,0.5158,35.1263,37.1555
+Both Sexes,Black (includes Hispanic),Ages 50-64,Regional,26.3584,0.4389,25.5051,27.233
+Both Sexes,Black (includes Hispanic),Ages 50-64,Distant,22.9324,0.4092,22.1374,23.7486
+Both Sexes,Black (includes Hispanic),Ages 50-64,Unstaged,4.8286,0.1882,4.4667,5.212
+Both Sexes,Black (includes Hispanic),Ages 65+,All Stages,199.0949,1.6724,195.8304,202.4003
+Both Sexes,Black (includes Hispanic),Ages 65+,Localized,72.3213,1.0043,70.3661,74.3173
+Both Sexes,Black (includes Hispanic),Ages 65+,Regional,62.897,0.9403,61.0674,64.7674
+Both Sexes,Black (includes Hispanic),Ages 65+,Distant,46.4897,0.8069,44.9215,48.0988
+Both Sexes,Black (includes Hispanic),Ages 65+,Unstaged,17.3869,0.503,16.4149,18.401
+Both Sexes,Black (includes Hispanic),Ages <15,All Stages,-,-,-,-
+Both Sexes,Black (includes Hispanic),Ages <15,Localized,-,-,-,-
+Both Sexes,Black (includes Hispanic),Ages <15,Regional,-,-,-,-
+Both Sexes,Black (includes Hispanic),Ages <15,Distant,-,-,-,-
+Both Sexes,Black (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Both Sexes,Black (includes Hispanic),Ages 15-39,All Stages,4.3888,0.1325,4.1329,4.6558
+Both Sexes,Black (includes Hispanic),Ages 15-39,Localized,1.3324,0.0722,1.1947,1.4811
+Both Sexes,Black (includes Hispanic),Ages 15-39,Regional,1.5642,0.0796,1.4121,1.7276
+Both Sexes,Black (includes Hispanic),Ages 15-39,Distant,1.2091,0.0697,1.0764,1.353
+Both Sexes,Black (includes Hispanic),Ages 15-39,Unstaged,0.2831,0.0342,0.2201,0.3577
+Both Sexes,Black (includes Hispanic),Ages 40-64,All Stages,58.7608,0.4799,57.8239,59.7093
+Both Sexes,Black (includes Hispanic),Ages 40-64,Localized,22.3687,0.2946,21.7949,22.954
+Both Sexes,Black (includes Hispanic),Ages 40-64,Regional,18.0198,0.2671,17.5,18.5513
+Both Sexes,Black (includes Hispanic),Ages 40-64,Distant,15.435,0.2466,14.9554,15.9264
+Both Sexes,Black (includes Hispanic),Ages 40-64,Unstaged,2.9373,0.1064,2.7325,3.1538
+Both Sexes,Black (includes Hispanic),Ages 65-74,All Stages,169.1942,1.9502,165.3932,173.0603
+Both Sexes,Black (includes Hispanic),Ages 65-74,Localized,65.3716,1.2108,63.0198,67.7886
+Both Sexes,Black (includes Hispanic),Ages 65-74,Regional,54.5331,1.1077,52.3835,56.7482
+Both Sexes,Black (includes Hispanic),Ages 65-74,Distant,40.4242,0.9535,38.5766,42.3371
+Both Sexes,Black (includes Hispanic),Ages 65-74,Unstaged,8.8653,0.4483,8.0082,9.7887
+Both Sexes,Black (includes Hispanic),Ages 75+,All Stages,231.8129,2.7772,226.4013,237.3209
+Both Sexes,Black (includes Hispanic),Ages 75+,Localized,79.9259,1.6336,76.7558,83.1928
+Both Sexes,Black (includes Hispanic),Ages 75+,Regional,72.0488,1.5518,69.039,75.1556
+Both Sexes,Black (includes Hispanic),Ages 75+,Distant,53.1268,1.3292,50.5532,55.7972
+Both Sexes,Black (includes Hispanic),Ages 75+,Unstaged,26.7114,0.9322,24.9153,28.6033
+Both Sexes,Black (includes Hispanic),Ages < 20,All Stages,0.154,0.0253,0.1084,0.2124
+Both Sexes,Black (includes Hispanic),Ages < 20,Localized,0.0917,0.0196,0.0575,0.139
+Both Sexes,Black (includes Hispanic),Ages < 20,Regional,-,-,-,-
+Both Sexes,Black (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Both Sexes,Black (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Both Sexes,Hispanic (any race),All Ages,All Stages,33.6609,0.2118,33.247,34.0782
+Both Sexes,Hispanic (any race),All Ages,Localized,12.2928,0.1274,12.0443,12.5448
+Both Sexes,Hispanic (any race),All Ages,Regional,11.9084,0.1262,11.6624,12.1579
+Both Sexes,Hispanic (any race),All Ages,Distant,7.1408,0.0969,6.9521,7.3329
+Both Sexes,Hispanic (any race),All Ages,Unstaged,2.3189,0.0575,2.2075,2.434
+Both Sexes,Hispanic (any race),Ages < 50,All Stages,5.9167,0.0843,5.7527,6.084
+Both Sexes,Hispanic (any race),Ages < 50,Localized,1.96,0.0482,1.8666,2.0565
+Both Sexes,Hispanic (any race),Ages < 50,Regional,2.175,0.0513,2.0756,2.2776
+Both Sexes,Hispanic (any race),Ages < 50,Distant,1.5428,0.0432,1.4593,1.6295
+Both Sexes,Hispanic (any race),Ages < 50,Unstaged,0.239,0.0169,0.207,0.2743
+Both Sexes,Hispanic (any race),Ages 50-64,All Stages,63.759,0.6234,62.5429,64.9927
+Both Sexes,Hispanic (any race),Ages 50-64,Localized,24.8605,0.3893,24.1034,25.6355
+Both Sexes,Hispanic (any race),Ages 50-64,Regional,21.8803,0.3652,21.1703,22.608
+Both Sexes,Hispanic (any race),Ages 50-64,Distant,13.3351,0.2852,12.782,13.906
+Both Sexes,Hispanic (any race),Ages 50-64,Unstaged,3.683,0.1497,3.3954,3.9884
+Both Sexes,Hispanic (any race),Ages 65+,All Stages,156.8033,1.4241,154.0244,159.6196
+Both Sexes,Hispanic (any race),Ages 65+,Localized,56.5436,0.8527,54.8846,58.24
+Both Sexes,Hispanic (any race),Ages 65+,Regional,55.807,0.8499,54.1535,57.4982
+Both Sexes,Hispanic (any race),Ages 65+,Distant,31.8433,0.642,30.5973,33.127
+Both Sexes,Hispanic (any race),Ages 65+,Unstaged,12.6094,0.4079,11.8225,13.4346
+Both Sexes,Hispanic (any race),Ages <15,All Stages,0.1334,0.0203,0.0965,0.1794
+Both Sexes,Hispanic (any race),Ages <15,Localized,0.1148,0.0189,0.0808,0.1581
+Both Sexes,Hispanic (any race),Ages <15,Regional,-,-,-,-
+Both Sexes,Hispanic (any race),Ages <15,Distant,-,-,-,-
+Both Sexes,Hispanic (any race),Ages <15,Unstaged,-,-,-,-
+Both Sexes,Hispanic (any race),Ages 15-39,All Stages,3.646,0.0886,3.4745,3.8236
+Both Sexes,Hispanic (any race),Ages 15-39,Localized,1.2963,0.0523,1.1958,1.4028
+Both Sexes,Hispanic (any race),Ages 15-39,Regional,1.2758,0.0527,1.1746,1.3832
+Both Sexes,Hispanic (any race),Ages 15-39,Distant,0.917,0.0447,0.8315,1.0086
+Both Sexes,Hispanic (any race),Ages 15-39,Unstaged,0.1569,0.0183,0.1231,0.1968
+Both Sexes,Hispanic (any race),Ages 40-64,All Stages,41.1944,0.3521,40.5072,41.8904
+Both Sexes,Hispanic (any race),Ages 40-64,Localized,15.338,0.2148,14.9198,15.7649
+Both Sexes,Hispanic (any race),Ages 40-64,Regional,14.4758,0.2087,14.0695,14.8908
+Both Sexes,Hispanic (any race),Ages 40-64,Distant,9.1775,0.1662,8.8546,9.5092
+Both Sexes,Hispanic (any race),Ages 40-64,Unstaged,2.2031,0.0813,2.0465,2.3685
+Both Sexes,Hispanic (any race),Ages 65-74,All Stages,126.1607,1.6242,122.9972,129.3848
+Both Sexes,Hispanic (any race),Ages 65-74,Localized,48.4453,1.0045,46.4963,50.4549
+Both Sexes,Hispanic (any race),Ages 65-74,Regional,44.7126,0.9669,42.8375,46.6486
+Both Sexes,Hispanic (any race),Ages 65-74,Distant,25.8405,0.7372,24.4156,27.3266
+Both Sexes,Hispanic (any race),Ages 65-74,Unstaged,7.1623,0.388,6.422,7.9643
+Both Sexes,Hispanic (any race),Ages 75+,All Stages,190.3328,2.3949,185.6676,195.0856
+Both Sexes,Hispanic (any race),Ages 75+,Localized,65.4049,1.4073,62.6754,68.2223
+Both Sexes,Hispanic (any race),Ages 75+,Regional,67.9467,1.4313,65.17,70.8111
+Both Sexes,Hispanic (any race),Ages 75+,Distant,38.4117,1.0756,36.3323,40.5789
+Both Sexes,Hispanic (any race),Ages 75+,Unstaged,18.5696,0.7413,17.145,20.0814
+Both Sexes,Hispanic (any race),Ages < 20,All Stages,0.3109,0.027,0.2603,0.3683
+Both Sexes,Hispanic (any race),Ages < 20,Localized,0.2477,0.0241,0.2028,0.2995
+Both Sexes,Hispanic (any race),Ages < 20,Regional,0.042,0.0099,0.0249,0.0662
+Both Sexes,Hispanic (any race),Ages < 20,Distant,-,-,-,-
+Both Sexes,Hispanic (any race),Ages < 20,Unstaged,-,-,-,-
+Both Sexes,Non-Hispanic White,All Ages,All Stages,38.8181,0.0971,38.6281,39.0089
+Both Sexes,Non-Hispanic White,All Ages,Localized,14.9496,0.0601,14.832,15.068
+Both Sexes,Non-Hispanic White,All Ages,Regional,13.6413,0.0577,13.5284,13.7549
+Both Sexes,Non-Hispanic White,All Ages,Distant,8.0063,0.0444,7.9195,8.0939
+Both Sexes,Non-Hispanic White,All Ages,Unstaged,2.2209,0.0225,2.177,2.2654
+Both Sexes,Non-Hispanic White,Ages < 50,All Stages,8.2035,0.0643,8.078,8.3305
+Both Sexes,Non-Hispanic White,Ages < 50,Localized,2.8594,0.0379,2.7856,2.9346
+Both Sexes,Non-Hispanic White,Ages < 50,Regional,3.021,0.039,2.945,3.0985
+Both Sexes,Non-Hispanic White,Ages < 50,Distant,2.0579,0.0322,1.9952,2.122
+Both Sexes,Non-Hispanic White,Ages < 50,Unstaged,0.2652,0.0116,0.243,0.289
+Both Sexes,Non-Hispanic White,Ages 50-64,All Stages,66.9943,0.304,66.3997,67.5928
+Both Sexes,Non-Hispanic White,Ages 50-64,Localized,26.5096,0.1919,26.1347,26.8884
+Both Sexes,Non-Hispanic White,Ages 50-64,Regional,23.2869,0.179,22.9374,23.6404
+Both Sexes,Non-Hispanic White,Ages 50-64,Distant,14.734,0.142,14.457,15.015
+Both Sexes,Non-Hispanic White,Ages 50-64,Unstaged,2.4638,0.0582,2.351,2.5806
+Both Sexes,Non-Hispanic White,Ages 65+,All Stages,180.6767,0.5695,179.5621,181.7964
+Both Sexes,Non-Hispanic White,Ages 65+,Localized,70.4589,0.3571,69.7608,71.1623
+Both Sexes,Non-Hispanic White,Ages 65+,Regional,63.005,0.3368,62.3466,63.6686
+Both Sexes,Non-Hispanic White,Ages 65+,Distant,34.0826,0.2469,33.6004,34.57
+Both Sexes,Non-Hispanic White,Ages 65+,Unstaged,13.1301,0.1499,12.838,13.4272
+Both Sexes,Non-Hispanic White,Ages <15,All Stages,0.2274,0.0207,0.1887,0.2718
+Both Sexes,Non-Hispanic White,Ages <15,Localized,0.1879,0.0188,0.1529,0.2286
+Both Sexes,Non-Hispanic White,Ages <15,Regional,0.0339,0.008,0.0201,0.0536
+Both Sexes,Non-Hispanic White,Ages <15,Distant,-,-,-,-
+Both Sexes,Non-Hispanic White,Ages <15,Unstaged,-,-,-,-
+Both Sexes,Non-Hispanic White,Ages 15-39,All Stages,5.0715,0.0739,4.9276,5.2184
+Both Sexes,Non-Hispanic White,Ages 15-39,Localized,1.9704,0.0456,1.882,2.0619
+Both Sexes,Non-Hispanic White,Ages 15-39,Regional,1.7397,0.0435,1.6555,1.827
+Both Sexes,Non-Hispanic White,Ages 15-39,Distant,1.163,0.0357,1.094,1.2351
+Both Sexes,Non-Hispanic White,Ages 15-39,Unstaged,0.1983,0.0146,0.1707,0.2291
+Both Sexes,Non-Hispanic White,Ages 40-64,All Stages,46.5041,0.1956,46.1216,46.8891
+Both Sexes,Non-Hispanic White,Ages 40-64,Localized,17.454,0.1187,17.2222,17.6883
+Both Sexes,Non-Hispanic White,Ages 40-64,Regional,16.6272,0.1176,16.3975,16.8593
+Both Sexes,Non-Hispanic White,Ages 40-64,Distant,10.8087,0.0951,10.6231,10.9968
+Both Sexes,Non-Hispanic White,Ages 40-64,Unstaged,1.6142,0.036,1.5445,1.6863
+Both Sexes,Non-Hispanic White,Ages 65-74,All Stages,132.2335,0.651,130.9605,133.5157
+Both Sexes,Non-Hispanic White,Ages 65-74,Localized,53.3962,0.4142,52.5875,54.2141
+Both Sexes,Non-Hispanic White,Ages 65-74,Regional,46.4418,0.3857,45.6889,47.2039
+Both Sexes,Non-Hispanic White,Ages 65-74,Distant,26.8924,0.293,26.3212,27.4728
+Both Sexes,Non-Hispanic White,Ages 65-74,Unstaged,5.5031,0.1332,5.2451,5.7705
+Both Sexes,Non-Hispanic White,Ages 75+,All Stages,233.684,0.9566,231.8129,235.5664
+Both Sexes,Non-Hispanic White,Ages 75+,Localized,89.1293,0.5948,87.9673,90.3028
+Both Sexes,Non-Hispanic White,Ages 75+,Regional,81.1288,0.5651,80.0249,82.244
+Both Sexes,Non-Hispanic White,Ages 75+,Distant,41.9503,0.4057,41.1589,42.7531
+Both Sexes,Non-Hispanic White,Ages 75+,Unstaged,21.4756,0.2779,20.9343,22.0277
+Both Sexes,Non-Hispanic White,Ages < 20,All Stages,0.4814,0.0255,0.4328,0.534
+Both Sexes,Non-Hispanic White,Ages < 20,Localized,0.3901,0.0229,0.3465,0.4378
+Both Sexes,Non-Hispanic White,Ages < 20,Regional,0.0674,0.0095,0.05,0.0889
+Both Sexes,Non-Hispanic White,Ages < 20,Distant,-,-,-,-
+Both Sexes,Non-Hispanic White,Ages < 20,Unstaged,-,-,-,-
+Both Sexes,White (includes Hispanic),All Ages,All Stages,38.0945,0.0879,37.9225,38.2672
+Both Sexes,White (includes Hispanic),All Ages,Localized,14.5729,0.0543,14.4667,14.6798
+Both Sexes,White (includes Hispanic),All Ages,Regional,13.4057,0.0522,13.3035,13.5085
+Both Sexes,White (includes Hispanic),All Ages,Distant,7.8846,0.0401,7.8062,7.9636
+Both Sexes,White (includes Hispanic),All Ages,Unstaged,2.2313,0.0209,2.1906,2.2727
+Both Sexes,White (includes Hispanic),Ages < 50,All Stages,7.6413,0.0529,7.538,7.7456
+Both Sexes,White (includes Hispanic),Ages < 50,Localized,2.628,0.0309,2.5678,2.6892
+Both Sexes,White (includes Hispanic),Ages < 50,Regional,2.8191,0.0322,2.7564,2.8828
+Both Sexes,White (includes Hispanic),Ages < 50,Distant,1.9412,0.0267,1.8892,1.9942
+Both Sexes,White (includes Hispanic),Ages < 50,Unstaged,0.253,0.0096,0.2345,0.2726
+Both Sexes,White (includes Hispanic),Ages 50-64,All Stages,66.658,0.276,66.1181,67.2012
+Both Sexes,White (includes Hispanic),Ages 50-64,Localized,26.2679,0.1738,25.9283,26.6109
+Both Sexes,White (includes Hispanic),Ages 50-64,Regional,23.1804,0.1625,22.8629,23.5012
+Both Sexes,White (includes Hispanic),Ages 50-64,Distant,14.5806,0.1287,14.3295,14.8349
+Both Sexes,White (includes Hispanic),Ages 50-64,Unstaged,2.6291,0.0548,2.5228,2.7387
+Both Sexes,White (includes Hispanic),Ages 65+,All Stages,178.5698,0.5335,177.5256,179.6186
+Both Sexes,White (includes Hispanic),Ages 65+,Localized,69.0896,0.333,68.4384,69.7454
+Both Sexes,White (includes Hispanic),Ages 65+,Regional,62.4235,0.3158,61.806,63.0457
+Both Sexes,White (includes Hispanic),Ages 65+,Distant,33.9699,0.2323,33.516,34.4283
+Both Sexes,White (includes Hispanic),Ages 65+,Unstaged,13.0868,0.1415,12.8108,13.3672
+Both Sexes,White (includes Hispanic),Ages <15,All Stages,0.1965,0.0156,0.1671,0.2295
+Both Sexes,White (includes Hispanic),Ages <15,Localized,0.1631,0.0142,0.1365,0.1934
+Both Sexes,White (includes Hispanic),Ages <15,Regional,0.0272,0.0058,0.017,0.0412
+Both Sexes,White (includes Hispanic),Ages <15,Distant,-,-,-,-
+Both Sexes,White (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Both Sexes,White (includes Hispanic),Ages 15-39,All Stages,4.6811,0.0592,4.5658,4.7986
+Both Sexes,White (includes Hispanic),Ages 15-39,Localized,1.7733,0.0361,1.7033,1.8454
+Both Sexes,White (includes Hispanic),Ages 15-39,Regional,1.6143,0.035,1.5466,1.6843
+Both Sexes,White (includes Hispanic),Ages 15-39,Distant,1.1104,0.0291,1.0541,1.1688
+Both Sexes,White (includes Hispanic),Ages 15-39,Unstaged,0.1831,0.0117,0.1609,0.2074
+Both Sexes,White (includes Hispanic),Ages 40-64,All Stages,45.4773,0.1717,45.1414,45.8152
+Both Sexes,White (includes Hispanic),Ages 40-64,Localized,17.0317,0.1043,16.8278,17.2375
+Both Sexes,White (includes Hispanic),Ages 40-64,Regional,16.245,0.103,16.0437,16.4482
+Both Sexes,White (includes Hispanic),Ages 40-64,Distant,10.5158,0.0831,10.3534,10.68
+Both Sexes,White (includes Hispanic),Ages 40-64,Unstaged,1.6849,0.0327,1.6214,1.7502
+Both Sexes,White (includes Hispanic),Ages 65-74,All Stages,131.8519,0.6096,130.6597,133.0522
+Both Sexes,White (includes Hispanic),Ages 65-74,Localized,52.9451,0.3866,52.19,53.7083
+Both Sexes,White (includes Hispanic),Ages 65-74,Regional,46.4417,0.3617,45.7355,47.156
+Both Sexes,White (includes Hispanic),Ages 65-74,Distant,26.8162,0.2745,26.2809,27.3596
+Both Sexes,White (includes Hispanic),Ages 65-74,Unstaged,5.6489,0.1265,5.4036,5.9024
+Both Sexes,White (includes Hispanic),Ages 75+,All Stages,229.6893,0.8964,227.9357,231.4529
+Both Sexes,White (includes Hispanic),Ages 75+,Localized,86.7553,0.5545,85.6719,87.8488
+Both Sexes,White (includes Hispanic),Ages 75+,Regional,79.9111,0.53,78.8757,80.9566
+Both Sexes,White (includes Hispanic),Ages 75+,Distant,41.7975,0.3828,41.0506,42.5545
+Both Sexes,White (includes Hispanic),Ages 75+,Unstaged,21.2254,0.2621,20.7148,21.7457
+Both Sexes,White (includes Hispanic),Ages < 20,All Stages,0.4331,0.0197,0.3953,0.4735
+Both Sexes,White (includes Hispanic),Ages < 20,Localized,0.349,0.0177,0.3151,0.3854
+Both Sexes,White (includes Hispanic),Ages < 20,Regional,0.0601,0.0073,0.0466,0.0763
+Both Sexes,White (includes Hispanic),Ages < 20,Distant,0.0152,0.0037,0.0088,0.0243
+Both Sexes,White (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Female,All Races (includes Hispanic),All Ages,All Stages,33.927,0.1,33.7314,34.1236
+Female,All Races (includes Hispanic),All Ages,Localized,13.0577,0.0621,12.9363,13.1801
+Female,All Races (includes Hispanic),All Ages,Regional,11.6985,0.0588,11.5835,11.8144
+Female,All Races (includes Hispanic),All Ages,Distant,7.038,0.0457,6.9487,7.1283
+Female,All Races (includes Hispanic),All Ages,Unstaged,2.1328,0.0243,2.0854,2.181
+Female,All Races (includes Hispanic),Ages < 50,All Stages,7.336,0.0626,7.2138,7.4597
+Female,All Races (includes Hispanic),Ages < 50,Localized,2.6805,0.0377,2.6071,2.7554
+Female,All Races (includes Hispanic),Ages < 50,Regional,2.5489,0.037,2.477,2.6224
+Female,All Races (includes Hispanic),Ages < 50,Distant,1.8305,0.0314,1.7695,1.893
+Female,All Races (includes Hispanic),Ages < 50,Unstaged,0.2761,0.0122,0.2527,0.301
+Female,All Races (includes Hispanic),Ages 50-64,All Stages,58.9345,0.3187,58.3116,59.5625
+Female,All Races (includes Hispanic),Ages 50-64,Localized,23.8367,0.2035,23.4396,24.2388
+Female,All Races (includes Hispanic),Ages 50-64,Regional,19.615,0.1834,19.2571,19.9778
+Female,All Races (includes Hispanic),Ages 50-64,Distant,12.9022,0.1485,12.6128,13.1966
+Female,All Races (includes Hispanic),Ages 50-64,Unstaged,2.5806,0.0668,2.4513,2.715
+Female,All Races (includes Hispanic),Ages 65+,All Stages,156.5076,0.5953,155.343,157.6787
+Female,All Races (includes Hispanic),Ages 65+,Localized,59.6851,0.3697,58.9628,60.414
+Female,All Races (includes Hispanic),Ages 65+,Regional,54.6934,0.3526,54.0044,55.3889
+Female,All Races (includes Hispanic),Ages 65+,Distant,29.8968,0.26,29.3894,30.4108
+Female,All Races (includes Hispanic),Ages 65+,Unstaged,12.2323,0.1605,11.9197,12.5512
+Female,All Races (includes Hispanic),Ages <15,All Stages,0.1989,0.0191,0.1632,0.2401
+Female,All Races (includes Hispanic),Ages <15,Localized,0.1621,0.0173,0.13,0.1996
+Female,All Races (includes Hispanic),Ages <15,Regional,0.0295,0.0074,0.0169,0.0478
+Female,All Races (includes Hispanic),Ages <15,Distant,-,-,-,-
+Female,All Races (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Female,All Races (includes Hispanic),Ages 15-39,All Stages,4.623,0.0709,4.485,4.764
+Female,All Races (includes Hispanic),Ages 15-39,Localized,1.8531,0.0445,1.767,1.9424
+Female,All Races (includes Hispanic),Ages 15-39,Regional,1.4889,0.0404,1.4107,1.5702
+Female,All Races (includes Hispanic),Ages 15-39,Distant,1.0647,0.0343,0.9985,1.134
+Female,All Races (includes Hispanic),Ages 15-39,Unstaged,0.2163,0.0154,0.1872,0.2485
+Female,All Races (includes Hispanic),Ages 40-64,All Stages,41.0058,0.1998,40.6152,41.3993
+Female,All Races (includes Hispanic),Ages 40-64,Localized,15.8646,0.1237,15.6231,16.1089
+Female,All Races (includes Hispanic),Ages 40-64,Regional,13.9874,0.117,13.759,14.2186
+Female,All Races (includes Hispanic),Ages 40-64,Distant,9.4783,0.0966,9.2899,9.6696
+Female,All Races (includes Hispanic),Ages 40-64,Unstaged,1.6755,0.04,1.598,1.7559
+Female,All Races (includes Hispanic),Ages 65-74,All Stages,112.9103,0.6887,111.5644,114.2684
+Female,All Races (includes Hispanic),Ages 65-74,Localized,45.4396,0.4372,44.5866,46.3047
+Female,All Races (includes Hispanic),Ages 65-74,Regional,39.1778,0.4056,38.3867,39.981
+Female,All Races (includes Hispanic),Ages 65-74,Distant,23.0376,0.3105,22.4331,23.6542
+Female,All Races (includes Hispanic),Ages 65-74,Unstaged,5.2553,0.1492,4.967,5.556
+Female,All Races (includes Hispanic),Ages 75+,All Stages,204.2125,0.993,202.2707,206.1681
+Female,All Races (includes Hispanic),Ages 75+,Localized,75.2728,0.6086,74.0846,76.4751
+Female,All Races (includes Hispanic),Ages 75+,Regional,71.6708,0.5901,70.5187,72.8368
+Female,All Races (includes Hispanic),Ages 75+,Distant,37.4023,0.4255,36.5729,38.2457
+Female,All Races (includes Hispanic),Ages 75+,Unstaged,19.8666,0.2939,19.2948,20.4515
+Female,All Races (includes Hispanic),Ages < 20,All Stages,0.4468,0.0245,0.4001,0.4974
+Female,All Races (includes Hispanic),Ages < 20,Localized,0.352,0.0217,0.3107,0.3972
+Female,All Races (includes Hispanic),Ages < 20,Regional,0.0642,0.0093,0.0474,0.0852
+Female,All Races (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Female,All Races (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,All Stages,37.9438,1.4982,35.0638,40.9851
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,Localized,13.3242,0.8654,11.682,15.1234
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,Regional,14.0654,0.9202,12.3196,15.9756
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,Distant,8.7222,0.7238,7.3612,10.2479
+Female,American Indian / Alaska Native (includes Hispanic),All Ages,Unstaged,1.8319,0.3536,1.2056,2.6415
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,All Stages,7.5689,0.7313,6.2037,9.128
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,Localized,2.9569,0.4558,2.1319,3.9773
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,Regional,2.5618,0.4247,1.798,3.5217
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,Distant,1.9803,0.3766,1.3122,2.8476
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 50,Unstaged,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,All Stages,68.6716,4.2671,60.5622,77.5622
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,Localized,28.7109,2.7552,23.5654,34.6447
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,Regional,25.1717,2.5877,20.3563,30.78
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,Distant,12.4429,1.8186,9.1366,16.5524
+Female,American Indian / Alaska Native (includes Hispanic),Ages 50-64,Unstaged,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,All Stages,175.4017,9.8668,156.5941,195.8341
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,Localized,54.4277,5.4206,44.3236,66.1522
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,Regional,66.7538,6.1376,55.2673,79.9006
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,Distant,42.9099,4.8471,33.9384,53.5227
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65+,Unstaged,11.3103,2.6086,6.7887,17.6228
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,All Stages,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,Localized,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,Regional,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,Distant,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,All Stages,4.1968,0.7305,2.889,5.8736
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,Localized,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,Regional,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,Distant,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages 15-39,Unstaged,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,All Stages,47.0031,2.5955,42.0531,52.3821
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,Localized,19.2653,1.6577,16.1534,22.8099
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,Regional,16.6192,1.5387,13.7404,19.9313
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,Distant,9.7943,1.2015,7.582,12.4531
+Female,American Indian / Alaska Native (includes Hispanic),Ages 40-64,Unstaged,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,All Stages,126.6749,10.4682,106.9889,148.8993
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,Localized,48.3674,6.4303,36.5924,62.7021
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,Regional,41.5233,6.0029,30.5999,55.0378
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,Distant,35.1164,5.5473,25.096,47.7528
+Female,American Indian / Alaska Native (includes Hispanic),Ages 65-74,Unstaged,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,All Stages,228.7193,17.1978,196.2534,265.0165
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,Localized,61.0589,8.9084,44.8603,81.1857
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,Regional,94.3615,11.0485,73.9569,118.6493
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,Distant,51.4378,8.1362,36.7427,70.0536
+Female,American Indian / Alaska Native (includes Hispanic),Ages 75+,Unstaged,21.8612,5.3044,12.7315,35.0108
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,All Stages,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,Localized,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,Regional,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Female,American Indian / Alaska Native (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,All Stages,26.9044,0.2897,26.3396,27.4784
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,Localized,10.1062,0.1773,9.7616,10.4601
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,Regional,9.6812,0.1741,9.3429,10.0287
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,Distant,5.2669,0.1279,5.0191,5.5239
+Female,Asian / Pacific Islander (includes Hispanic),All Ages,Unstaged,1.8501,0.0761,1.7039,2.0057
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,All Stages,5.6456,0.1585,5.3392,5.9654
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,Localized,1.7685,0.0887,1.599,1.9515
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,Regional,2.1809,0.0987,1.9917,2.3836
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,Distant,1.4758,0.0809,1.3215,1.6436
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 50,Unstaged,0.2205,0.0313,0.1635,0.2913
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,All Stages,49.4284,0.9296,47.6231,51.2845
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,Localized,20.3626,0.5993,19.2048,21.5716
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,Regional,17.1778,0.5472,16.1219,18.2845
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,Distant,9.7587,0.4102,8.9712,10.5969
+Female,Asian / Pacific Islander (includes Hispanic),Ages 50-64,Unstaged,2.1294,0.193,1.7679,2.5429
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,All Stages,121.9004,1.7925,118.4122,125.4652
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,Localized,45.676,1.0978,43.5494,47.8794
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,Regional,43.7307,1.0754,41.6481,45.8902
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,Distant,21.6439,0.7569,20.1856,23.1796
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65+,Unstaged,10.8499,0.5277,9.8401,11.9358
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,All Stages,-,-,-,-
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,Localized,-,-,-,-
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,Regional,-,-,-,-
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,Distant,-,-,-,-
+Female,Asian / Pacific Islander (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,All Stages,3.2598,0.1679,2.9391,3.6062
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,Localized,1.1387,0.0994,0.9523,1.3511
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,Regional,1.1177,0.0985,0.933,1.3284
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,Distant,0.8412,0.0849,0.683,1.0253
+Female,Asian / Pacific Islander (includes Hispanic),Ages 15-39,Unstaged,0.1623,0.0374,0.0974,0.2542
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,All Stages,33.9696,0.56,32.8807,35.0856
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,Localized,12.9145,0.344,12.2489,13.6071
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,Regional,12.3227,0.3382,11.6687,13.0039
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,Distant,7.3464,0.2612,6.8433,7.8769
+Female,Asian / Pacific Islander (includes Hispanic),Ages 40-64,Unstaged,1.386,0.1127,1.174,1.6257
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,All Stages,92.8655,2.081,88.8311,97.0355
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,Localized,38.9462,1.3447,36.355,41.6733
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,Regional,33.2764,1.2466,30.8775,35.8118
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,Distant,15.5852,0.8538,13.9566,17.3513
+Female,Asian / Pacific Islander (includes Hispanic),Ages 65-74,Unstaged,5.0576,0.4892,4.1443,6.1113
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,All Stages,153.671,2.9844,147.8767,159.6339
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,Localized,53.0398,1.7666,49.6333,56.6173
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,Regional,55.1699,1.7919,51.7132,58.7964
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,Distant,28.2735,1.2807,25.8188,30.8984
+Female,Asian / Pacific Islander (includes Hispanic),Ages 75+,Unstaged,17.1878,0.9668,15.345,19.1949
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,All Stages,-,-,-,-
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,Localized,-,-,-,-
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,Regional,-,-,-,-
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Female,Asian / Pacific Islander (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Female,Black (includes Hispanic),All Ages,All Stages,39.0842,0.3194,38.4606,39.7153
+Female,Black (includes Hispanic),All Ages,Localized,14.7073,0.1948,14.3279,15.094
+Female,Black (includes Hispanic),All Ages,Regional,12.305,0.1802,11.9543,12.6633
+Female,Black (includes Hispanic),All Ages,Distant,9.3234,0.1556,9.021,9.6333
+Female,Black (includes Hispanic),All Ages,Unstaged,2.7485,0.0861,2.5824,2.9223
+Female,Black (includes Hispanic),Ages < 50,All Stages,7.8977,0.1737,7.5609,8.2452
+Female,Black (includes Hispanic),Ages < 50,Localized,2.7676,0.1024,2.5706,2.9755
+Female,Black (includes Hispanic),Ages < 50,Regional,2.6293,0.1003,2.4363,2.8331
+Female,Black (includes Hispanic),Ages < 50,Distant,2.1504,0.0908,1.976,2.3356
+Female,Black (includes Hispanic),Ages < 50,Unstaged,0.3504,0.0369,0.2818,0.4301
+Female,Black (includes Hispanic),Ages 50-64,All Stages,78.1316,1.0307,76.1243,80.1783
+Female,Black (includes Hispanic),Ages 50-64,Localized,32.5683,0.6675,31.2729,33.9033
+Female,Black (includes Hispanic),Ages 50-64,Regional,22.531,0.5519,21.4622,23.6392
+Female,Black (includes Hispanic),Ages 50-64,Distant,19.1231,0.5087,18.139,20.1467
+Female,Black (includes Hispanic),Ages 50-64,Unstaged,3.9092,0.2311,3.4693,4.3892
+Female,Black (includes Hispanic),Ages 65+,All Stages,171.3176,1.9756,167.4672,175.2341
+Female,Black (includes Hispanic),Ages 65+,Localized,61.8769,1.1851,59.5759,64.2441
+Female,Black (includes Hispanic),Ages 65+,Regional,55.572,1.1289,53.3813,57.8293
+Female,Black (includes Hispanic),Ages 65+,Distant,38.766,0.9382,36.9487,40.6495
+Female,Black (includes Hispanic),Ages 65+,Unstaged,15.1026,0.5864,13.975,16.297
+Female,Black (includes Hispanic),Ages <15,All Stages,-,-,-,-
+Female,Black (includes Hispanic),Ages <15,Localized,-,-,-,-
+Female,Black (includes Hispanic),Ages <15,Regional,-,-,-,-
+Female,Black (includes Hispanic),Ages <15,Distant,-,-,-,-
+Female,Black (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Female,Black (includes Hispanic),Ages 15-39,All Stages,4.511,0.1855,4.1548,4.8887
+Female,Black (includes Hispanic),Ages 15-39,Localized,1.4675,0.1048,1.2691,1.6871
+Female,Black (includes Hispanic),Ages 15-39,Regional,1.5856,0.1104,1.3766,1.8164
+Female,Black (includes Hispanic),Ages 15-39,Distant,1.1992,0.0957,1.0189,1.4012
+Female,Black (includes Hispanic),Ages 15-39,Unstaged,0.2588,0.0454,0.1776,0.3627
+Female,Black (includes Hispanic),Ages 40-64,All Stages,52.0445,0.6183,50.8395,53.2711
+Female,Black (includes Hispanic),Ages 40-64,Localized,20.9117,0.3907,20.153,21.6922
+Female,Black (includes Hispanic),Ages 40-64,Regional,15.5254,0.3385,14.8689,16.2037
+Female,Black (includes Hispanic),Ages 40-64,Distant,13.1466,0.3118,12.5426,13.7725
+Female,Black (includes Hispanic),Ages 40-64,Unstaged,2.4608,0.1338,2.2055,2.7381
+Female,Black (includes Hispanic),Ages 65-74,All Stages,141.2182,2.3432,136.6626,145.8866
+Female,Black (includes Hispanic),Ages 65-74,Localized,55.8411,1.4735,52.9901,58.8052
+Female,Black (includes Hispanic),Ages 65-74,Regional,45.9231,1.338,43.3379,48.6218
+Female,Black (includes Hispanic),Ages 65-74,Distant,32.0952,1.1131,29.9504,34.353
+Female,Black (includes Hispanic),Ages 65-74,Unstaged,7.3588,0.5387,6.3408,8.4928
+Female,Black (includes Hispanic),Ages 75+,All Stages,204.2529,3.247,197.938,210.7174
+Female,Black (includes Hispanic),Ages 75+,Localized,68.4815,1.8867,64.8331,72.2806
+Female,Black (includes Hispanic),Ages 75+,Regional,66.13,1.8562,62.5416,69.8695
+Female,Black (includes Hispanic),Ages 75+,Distant,46.0653,1.5418,43.0926,49.1883
+Female,Black (includes Hispanic),Ages 75+,Unstaged,23.5761,1.0774,21.5114,25.7873
+Female,Black (includes Hispanic),Ages < 20,All Stages,0.1618,0.0371,0.0974,0.2529
+Female,Black (includes Hispanic),Ages < 20,Localized,-,-,-,-
+Female,Black (includes Hispanic),Ages < 20,Regional,-,-,-,-
+Female,Black (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Female,Black (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Female,Hispanic (any race),All Ages,All Stages,28.8055,0.2601,28.298,29.3193
+Female,Hispanic (any race),All Ages,Localized,10.7105,0.1579,10.4033,11.024
+Female,Hispanic (any race),All Ages,Regional,10.205,0.1553,9.9028,10.5135
+Female,Hispanic (any race),All Ages,Distant,5.9085,0.117,5.6813,6.1419
+Female,Hispanic (any race),All Ages,Unstaged,1.9815,0.0699,1.8469,2.1227
+Female,Hispanic (any race),Ages < 50,All Stages,5.8206,0.1189,5.5898,6.0581
+Female,Hispanic (any race),Ages < 50,Localized,2.0365,0.0698,1.9019,2.1777
+Female,Hispanic (any race),Ages < 50,Regional,2.0923,0.0716,1.9542,2.237
+Female,Hispanic (any race),Ages < 50,Distant,1.4647,0.0599,1.3497,1.5865
+Female,Hispanic (any race),Ages < 50,Unstaged,0.2271,0.0235,0.1835,0.2775
+Female,Hispanic (any race),Ages 50-64,All Stages,54.4785,0.8017,52.9184,56.0729
+Female,Hispanic (any race),Ages 50-64,Localized,21.9657,0.5093,20.9786,22.9872
+Female,Hispanic (any race),Ages 50-64,Regional,18.4787,0.4667,17.5753,19.4166
+Female,Hispanic (any race),Ages 50-64,Distant,11.0405,0.3608,10.3446,11.7709
+Female,Hispanic (any race),Ages 50-64,Unstaged,2.9936,0.1879,2.6367,3.3855
+Female,Hispanic (any race),Ages 65+,All Stages,129.9484,1.6927,126.6517,133.3089
+Female,Hispanic (any race),Ages 65+,Localized,47.0206,1.0174,45.0474,49.0579
+Female,Hispanic (any race),Ages 65+,Regional,46.839,1.0175,44.8658,48.8764
+Female,Hispanic (any race),Ages 65+,Distant,25.2627,0.7461,23.8213,26.7684
+Female,Hispanic (any race),Ages 65+,Unstaged,10.826,0.4878,9.8909,11.8257
+Female,Hispanic (any race),Ages <15,All Stages,0.1764,0.0333,0.1172,0.2545
+Female,Hispanic (any race),Ages <15,Localized,0.1578,0.0316,0.1021,0.2326
+Female,Hispanic (any race),Ages <15,Regional,-,-,-,-
+Female,Hispanic (any race),Ages <15,Distant,-,-,-,-
+Female,Hispanic (any race),Ages <15,Unstaged,-,-,-,-
+Female,Hispanic (any race),Ages 15-39,All Stages,3.7106,0.128,3.4639,3.9698
+Female,Hispanic (any race),Ages 15-39,Localized,1.3922,0.0776,1.2443,1.5525
+Female,Hispanic (any race),Ages 15-39,Regional,1.2359,0.0743,1.0946,1.3899
+Female,Hispanic (any race),Ages 15-39,Distant,0.9324,0.0648,0.8097,1.0679
+Female,Hispanic (any race),Ages 15-39,Unstaged,0.1501,0.0256,0.1042,0.209
+Female,Hispanic (any race),Ages 40-64,All Stages,36.2806,0.4623,35.3801,37.1983
+Female,Hispanic (any race),Ages 40-64,Localized,13.9495,0.2865,13.3935,14.5227
+Female,Hispanic (any race),Ages 40-64,Regional,12.6426,0.273,12.1132,13.1893
+Female,Hispanic (any race),Ages 40-64,Distant,7.846,0.2152,7.4299,8.2793
+Female,Hispanic (any race),Ages 40-64,Unstaged,1.8425,0.104,1.6442,2.0581
+Female,Hispanic (any race),Ages 65-74,All Stages,100.5151,1.9434,96.7418,104.3975
+Female,Hispanic (any race),Ages 65-74,Localized,39.2087,1.2113,36.8703,41.6564
+Female,Hispanic (any race),Ages 65-74,Regional,35.6153,1.1575,33.3825,37.9579
+Female,Hispanic (any race),Ages 65-74,Distant,19.7183,0.8618,18.0651,21.4817
+Female,Hispanic (any race),Ages 65-74,Unstaged,5.9727,0.4764,5.0755,6.9821
+Female,Hispanic (any race),Ages 75+,All Stages,162.1548,2.8362,156.6431,167.8104
+Female,Hispanic (any race),Ages 75+,Localized,55.5686,1.6684,52.3464,58.9363
+Female,Hispanic (any race),Ages 75+,Regional,59.1201,1.7135,55.8091,62.5758
+Female,Hispanic (any race),Ages 75+,Distant,31.3295,1.2459,28.9347,33.8691
+Female,Hispanic (any race),Ages 75+,Unstaged,16.1366,0.8787,14.4602,17.9555
+Female,Hispanic (any race),Ages < 20,All Stages,0.3956,0.0434,0.3151,0.4902
+Female,Hispanic (any race),Ages < 20,Localized,0.329,0.0396,0.256,0.4161
+Female,Hispanic (any race),Ages < 20,Regional,-,-,-,-
+Female,Hispanic (any race),Ages < 20,Distant,-,-,-,-
+Female,Hispanic (any race),Ages < 20,Unstaged,-,-,-,-
+Female,Non-Hispanic White,All Ages,All Stages,34.3374,0.1255,34.0918,34.5845
+Female,Non-Hispanic White,All Ages,Localized,13.302,0.0784,13.1488,13.4567
+Female,Non-Hispanic White,All Ages,Regional,12.0057,0.0742,11.8606,12.1522
+Female,Non-Hispanic White,All Ages,Distant,7.0524,0.0575,6.9401,7.1661
+Female,Non-Hispanic White,All Ages,Unstaged,1.9774,0.0283,1.9223,2.0338
+Female,Non-Hispanic White,Ages < 50,All Stages,7.8681,0.0894,7.6938,8.0454
+Female,Non-Hispanic White,Ages < 50,Localized,2.9701,0.0549,2.8635,3.0796
+Female,Non-Hispanic White,Ages < 50,Regional,2.7251,0.0526,2.6229,2.8304
+Female,Non-Hispanic White,Ages < 50,Distant,1.9249,0.0443,1.8391,2.0137
+Female,Non-Hispanic White,Ages < 50,Unstaged,0.248,0.016,0.2176,0.2815
+Female,Non-Hispanic White,Ages 50-64,All Stages,56.0718,0.3915,55.307,56.8444
+Female,Non-Hispanic White,Ages 50-64,Localized,22.2872,0.248,21.8037,22.7786
+Female,Non-Hispanic White,Ages 50-64,Regional,19.3426,0.2294,18.8955,19.7976
+Female,Non-Hispanic White,Ages 50-64,Distant,12.4383,0.1835,12.0813,12.8032
+Female,Non-Hispanic White,Ages 50-64,Unstaged,2.0037,0.074,1.8612,2.1541
+Female,Non-Hispanic White,Ages 65+,All Stages,160.1046,0.7132,158.7097,161.5087
+Female,Non-Hispanic White,Ages 65+,Localized,61.7984,0.4465,60.9264,62.6797
+Female,Non-Hispanic White,Ages 65+,Regional,56.4379,0.4243,55.6094,57.2756
+Female,Non-Hispanic White,Ages 65+,Distant,30.0203,0.3087,29.4181,30.6316
+Female,Non-Hispanic White,Ages 65+,Unstaged,11.848,0.1844,11.4893,12.2154
+Female,Non-Hispanic White,Ages <15,All Stages,0.2619,0.0318,0.2034,0.3321
+Female,Non-Hispanic White,Ages <15,Localized,0.2155,0.0288,0.1628,0.28
+Female,Non-Hispanic White,Ages <15,Regional,-,-,-,-
+Female,Non-Hispanic White,Ages <15,Distant,-,-,-,-
+Female,Non-Hispanic White,Ages <15,Unstaged,-,-,-,-
+Female,Non-Hispanic White,Ages 15-39,All Stages,5.1784,0.1062,4.9723,5.3907
+Female,Non-Hispanic White,Ages 15-39,Localized,2.2384,0.0692,2.1049,2.3781
+Female,Non-Hispanic White,Ages 15-39,Regional,1.617,0.0597,1.5022,1.7381
+Female,Non-Hispanic White,Ages 15-39,Distant,1.1121,0.0498,1.0166,1.2138
+Female,Non-Hispanic White,Ages 15-39,Unstaged,0.2109,0.0215,0.1709,0.2572
+Female,Non-Hispanic White,Ages 40-64,All Stages,40.167,0.2584,39.6622,40.6767
+Female,Non-Hispanic White,Ages 40-64,Localized,15.3018,0.1584,14.9929,15.6156
+Female,Non-Hispanic White,Ages 40-64,Regional,14.1164,0.1536,13.8169,14.4208
+Female,Non-Hispanic White,Ages 40-64,Distant,9.4187,0.1262,9.173,9.6694
+Female,Non-Hispanic White,Ages 40-64,Unstaged,1.3301,0.0464,1.2407,1.4243
+Female,Non-Hispanic White,Ages 65-74,All Stages,111.3849,0.8218,109.7799,113.0074
+Female,Non-Hispanic White,Ages 65-74,Localized,44.7029,0.5215,43.6866,45.7367
+Female,Non-Hispanic White,Ages 65-74,Regional,39.1479,0.4869,38.1994,40.1139
+Female,Non-Hispanic White,Ages 65-74,Distant,22.935,0.372,22.2116,23.6758
+Female,Non-Hispanic White,Ages 65-74,Unstaged,4.5992,0.1675,4.2766,4.9395
+Female,Non-Hispanic White,Ages 75+,All Stages,213.4146,1.1926,211.0833,215.765
+Female,Non-Hispanic White,Ages 75+,Localized,80.5046,0.7408,79.0592,81.9695
+Female,Non-Hispanic White,Ages 75+,Regional,75.357,0.7111,73.9696,76.7637
+Female,Non-Hispanic White,Ages 75+,Distant,37.7731,0.5024,36.7948,38.7708
+Female,Non-Hispanic White,Ages 75+,Unstaged,19.7798,0.34,19.1191,20.4583
+Female,Non-Hispanic White,Ages < 20,All Stages,0.5815,0.0401,0.5057,0.6657
+Female,Non-Hispanic White,Ages < 20,Localized,0.4632,0.0358,0.3958,0.539
+Female,Non-Hispanic White,Ages < 20,Regional,0.0856,0.0154,0.0581,0.1217
+Female,Non-Hispanic White,Ages < 20,Distant,-,-,-,-
+Female,Non-Hispanic White,Ages < 20,Unstaged,-,-,-,-
+Female,White (includes Hispanic),All Ages,All Stages,33.5771,0.1129,33.3562,33.7991
+Female,White (includes Hispanic),All Ages,Localized,12.9291,0.0702,12.7919,13.0675
+Female,White (includes Hispanic),All Ages,Regional,11.7729,0.0669,11.6422,11.9049
+Female,White (includes Hispanic),All Ages,Distant,6.8972,0.0515,6.7967,6.999
+Female,White (includes Hispanic),All Ages,Unstaged,1.9778,0.0261,1.9269,2.0297
+Female,White (includes Hispanic),Ages < 50,All Stages,7.371,0.0738,7.227,7.5171
+Female,White (includes Hispanic),Ages < 50,Localized,2.7354,0.0448,2.6483,2.8246
+Female,White (includes Hispanic),Ages < 50,Regional,2.5774,0.0437,2.4923,2.6645
+Female,White (includes Hispanic),Ages < 50,Distant,1.8241,0.0368,1.7526,1.8977
+Female,White (includes Hispanic),Ages < 50,Unstaged,0.2341,0.0132,0.2089,0.2614
+Female,White (includes Hispanic),Ages 50-64,All Stages,55.9845,0.3557,55.2895,56.686
+Female,White (includes Hispanic),Ages 50-64,Localized,22.2442,0.2251,21.8052,22.6899
+Female,White (includes Hispanic),Ages 50-64,Regional,19.3148,0.2085,18.9083,19.7279
+Female,White (includes Hispanic),Ages 50-64,Distant,12.2688,0.1658,11.9459,12.5982
+Female,White (includes Hispanic),Ages 50-64,Unstaged,2.1566,0.0698,2.022,2.2979
+Female,White (includes Hispanic),Ages 65+,All Stages,157.0386,0.664,155.7399,158.3455
+Female,White (includes Hispanic),Ages 65+,Localized,60.2427,0.4141,59.4337,61.0598
+Female,White (includes Hispanic),Ages 65+,Regional,55.4756,0.3954,54.7034,56.2559
+Female,White (includes Hispanic),Ages 65+,Distant,29.5711,0.288,29.0092,30.141
+Female,White (includes Hispanic),Ages 65+,Unstaged,11.7493,0.1736,11.4115,12.0948
+Female,White (includes Hispanic),Ages <15,All Stages,0.2326,0.0243,0.1875,0.2853
+Female,White (includes Hispanic),Ages <15,Localized,0.1947,0.0222,0.1536,0.2433
+Female,White (includes Hispanic),Ages <15,Regional,-,-,-,-
+Female,White (includes Hispanic),Ages <15,Distant,-,-,-,-
+Female,White (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Female,White (includes Hispanic),Ages 15-39,All Stages,4.788,0.0854,4.622,4.9583
+Female,White (includes Hispanic),Ages 15-39,Localized,1.9999,0.0546,1.8942,2.1098
+Female,White (includes Hispanic),Ages 15-39,Regional,1.5178,0.0484,1.4245,1.6155
+Female,White (includes Hispanic),Ages 15-39,Distant,1.0839,0.0411,1.0049,1.1673
+Female,White (includes Hispanic),Ages 15-39,Unstaged,0.1864,0.0169,0.1548,0.2224
+Female,White (includes Hispanic),Ages 40-64,All Stages,39.4169,0.2268,38.9736,39.8641
+Female,White (includes Hispanic),Ages 40-64,Localized,15.0152,0.1393,14.7434,15.2907
+Female,White (includes Hispanic),Ages 40-64,Regional,13.8708,0.1349,13.6076,14.1378
+Female,White (includes Hispanic),Ages 40-64,Distant,9.129,0.1099,8.9148,9.347
+Female,White (includes Hispanic),Ages 40-64,Unstaged,1.402,0.0422,1.3205,1.4874
+Female,White (includes Hispanic),Ages 65-74,All Stages,110.2286,0.7643,108.7357,111.7368
+Female,White (includes Hispanic),Ages 65-74,Localized,44.1166,0.4841,43.1729,45.0757
+Female,White (includes Hispanic),Ages 65-74,Regional,38.8265,0.4533,37.943,39.7254
+Female,White (includes Hispanic),Ages 65-74,Distant,22.5717,0.3451,21.9003,23.2583
+Female,White (includes Hispanic),Ages 65-74,Unstaged,4.7138,0.1586,4.408,5.035
+Female,White (includes Hispanic),Ages 75+,All Stages,208.259,1.111,206.0871,210.448
+Female,White (includes Hispanic),Ages 75+,Localized,77.8881,0.6867,76.5479,79.2455
+Female,White (includes Hispanic),Ages 75+,Regional,73.6933,0.6629,72.3997,75.0041
+Female,White (includes Hispanic),Ages 75+,Distant,37.2299,0.4704,36.3137,38.1633
+Female,White (includes Hispanic),Ages 75+,Unstaged,19.4477,0.3195,18.8265,20.0849
+Female,White (includes Hispanic),Ages < 20,All Stages,0.5307,0.0312,0.4712,0.5956
+Female,White (includes Hispanic),Ages < 20,Localized,0.4262,0.028,0.3731,0.4848
+Female,White (includes Hispanic),Ages < 20,Regional,0.0717,0.0115,0.051,0.0981
+Female,White (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Female,White (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Male,All Races (includes Hispanic),All Ages,All Stages,44.2014,0.1255,43.9557,44.4482
+Male,All Races (includes Hispanic),All Ages,Localized,16.8376,0.0773,16.6865,16.9898
+Male,All Races (includes Hispanic),All Ages,Regional,15.2378,0.0738,15.0935,15.3831
+Male,All Races (includes Hispanic),All Ages,Distant,9.3249,0.0574,9.2127,9.4382
+Male,All Races (includes Hispanic),All Ages,Unstaged,2.8011,0.0323,2.7382,2.8651
+Male,All Races (includes Hispanic),Ages < 50,All Stages,7.9011,0.0654,7.7735,8.0304
+Male,All Races (includes Hispanic),Ages < 50,Localized,2.4869,0.0366,2.4157,2.5596
+Male,All Races (includes Hispanic),Ages < 50,Regional,3.0279,0.0406,2.9489,3.1085
+Male,All Races (includes Hispanic),Ages < 50,Distant,2.0736,0.0335,2.0084,2.1404
+Male,All Races (includes Hispanic),Ages < 50,Unstaged,0.3127,0.013,0.2878,0.3392
+Male,All Races (includes Hispanic),Ages 50-64,All Stages,81.9362,0.3856,81.1821,82.6954
+Male,All Races (includes Hispanic),Ages 50-64,Localized,32.4525,0.2433,31.9774,32.933
+Male,All Races (includes Hispanic),Ages 50-64,Regional,27.5674,0.2234,27.1312,28.0087
+Male,All Races (includes Hispanic),Ages 50-64,Distant,18.0021,0.1802,17.6506,18.3588
+Male,All Races (includes Hispanic),Ages 50-64,Unstaged,3.9142,0.0843,3.7507,4.0829
+Male,All Races (includes Hispanic),Ages 65+,All Stages,207.2729,0.7981,205.7115,208.8432
+Male,All Races (includes Hispanic),Ages 65+,Localized,80.4781,0.4968,79.5073,81.4577
+Male,All Races (includes Hispanic),Ages 65+,Regional,70.5184,0.4654,69.6092,71.4365
+Male,All Races (includes Hispanic),Ages 65+,Distant,40.548,0.352,39.861,41.2439
+Male,All Races (includes Hispanic),Ages 65+,Unstaged,15.7284,0.2231,15.2941,16.1717
+Male,All Races (includes Hispanic),Ages <15,All Stages,0.1342,0.0154,0.1057,0.1679
+Male,All Races (includes Hispanic),Ages <15,Localized,0.1059,0.0137,0.0808,0.1363
+Male,All Races (includes Hispanic),Ages <15,Regional,-,-,-,-
+Male,All Races (includes Hispanic),Ages <15,Distant,-,-,-,-
+Male,All Races (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Male,All Races (includes Hispanic),Ages 15-39,All Stages,4.4535,0.0695,4.3183,4.5918
+Male,All Races (includes Hispanic),Ages 15-39,Localized,1.4841,0.0397,1.4073,1.564
+Male,All Races (includes Hispanic),Ages 15-39,Regional,1.6531,0.0426,1.5706,1.7386
+Male,All Races (includes Hispanic),Ages 15-39,Distant,1.1074,0.0349,1.0401,1.1778
+Male,All Races (includes Hispanic),Ages 15-39,Unstaged,0.2089,0.015,0.1805,0.2404
+Male,All Races (includes Hispanic),Ages 40-64,All Stages,53.9444,0.2318,53.491,54.4007
+Male,All Races (includes Hispanic),Ages 40-64,Localized,20.1255,0.1405,19.851,20.403
+Male,All Races (includes Hispanic),Ages 40-64,Regional,18.867,0.1378,18.5979,19.1392
+Male,All Races (includes Hispanic),Ages 40-64,Distant,12.5199,0.1123,12.3008,12.7421
+Male,All Races (includes Hispanic),Ages 40-64,Unstaged,2.4318,0.0487,2.3372,2.5294
+Male,All Races (includes Hispanic),Ages 65-74,All Stages,161.1267,0.8886,159.3897,162.8779
+Male,All Races (includes Hispanic),Ages 65-74,Localized,64.6418,0.5627,63.5435,65.7542
+Male,All Races (includes Hispanic),Ages 65-74,Regional,55.7304,0.5227,54.7107,56.7643
+Male,All Races (includes Hispanic),Ages 65-74,Distant,33.1165,0.4028,32.3318,33.9154
+Male,All Races (includes Hispanic),Ages 65-74,Unstaged,7.6381,0.1939,7.2627,8.0278
+Male,All Races (includes Hispanic),Ages 75+,All Stages,257.7668,1.3596,255.1089,260.4454
+Male,All Races (includes Hispanic),Ages 75+,Localized,97.8064,0.8386,96.1697,99.4641
+Male,All Races (includes Hispanic),Ages 75+,Regional,86.6996,0.7891,85.1598,88.2603
+Male,All Races (includes Hispanic),Ages 75+,Distant,48.6798,0.5909,47.5284,49.852
+Male,All Races (includes Hispanic),Ages 75+,Unstaged,24.5809,0.4162,23.7718,25.4107
+Male,All Races (includes Hispanic),Ages < 20,All Stages,0.2945,0.0194,0.2577,0.3352
+Male,All Races (includes Hispanic),Ages < 20,Localized,0.2255,0.017,0.1934,0.2614
+Male,All Races (includes Hispanic),Ages < 20,Regional,0.0473,0.0078,0.0333,0.0652
+Male,All Races (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Male,All Races (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),All Ages,All Stages,41.2319,1.7828,37.8114,44.8559
+Male,American Indian / Alaska Native (includes Hispanic),All Ages,Localized,15.0165,1.0435,13.0407,17.1885
+Male,American Indian / Alaska Native (includes Hispanic),All Ages,Regional,13.3852,1.0166,11.4669,15.5087
+Male,American Indian / Alaska Native (includes Hispanic),All Ages,Distant,9.2577,0.8452,7.6754,11.0459
+Male,American Indian / Alaska Native (includes Hispanic),All Ages,Unstaged,3.5726,0.5844,2.5202,4.8673
+Male,American Indian / Alaska Native (includes Hispanic),Ages < 50,All Stages,6.2126,0.664,4.9797,7.6388
+Male,American Indian / Alaska Native (includes Hispanic),Ages < 50,Localized,2.1345,0.3886,1.4419,3.0229
+Male,American Indian / Alaska Native (includes Hispanic),Ages < 50,Regional,1.9975,0.3743,1.3324,2.8573
+Male,American Indian / Alaska Native (includes Hispanic),Ages < 50,Distant,1.9378,0.3736,1.276,2.798
+Male,American Indian / Alaska Native (includes Hispanic),Ages < 50,Unstaged,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages 50-64,All Stages,73.7352,4.6039,64.987,83.3319
+Male,American Indian / Alaska Native (includes Hispanic),Ages 50-64,Localized,30.1487,2.945,24.6536,36.5022
+Male,American Indian / Alaska Native (includes Hispanic),Ages 50-64,Regional,23.2689,2.5878,18.4747,28.9254
+Male,American Indian / Alaska Native (includes Hispanic),Ages 50-64,Distant,16.2882,2.1596,12.3328,21.1092
+Male,American Indian / Alaska Native (includes Hispanic),Ages 50-64,Unstaged,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages 65+,All Stages,203.1764,12.4369,179.5294,229.0873
+Male,American Indian / Alaska Native (includes Hispanic),Ages 65+,Localized,70.8199,7.1422,57.5155,86.3482
+Male,American Indian / Alaska Native (includes Hispanic),Ages 65+,Regional,66.8605,7.1186,53.6395,82.3766
+Male,American Indian / Alaska Native (includes Hispanic),Ages 65+,Distant,42.8274,5.7948,32.2297,55.7892
+Male,American Indian / Alaska Native (includes Hispanic),Ages 65+,Unstaged,22.6686,4.4059,14.8704,32.998
+Male,American Indian / Alaska Native (includes Hispanic),Ages <15,All Stages,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages <15,Localized,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages <15,Regional,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages <15,Distant,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages 15-39,All Stages,3.8855,0.7212,2.6027,5.5445
+Male,American Indian / Alaska Native (includes Hispanic),Ages 15-39,Localized,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages 15-39,Regional,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages 15-39,Distant,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages 15-39,Unstaged,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages 40-64,All Stages,46.5165,2.6336,41.4973,51.9835
+Male,American Indian / Alaska Native (includes Hispanic),Ages 40-64,Localized,18.2565,1.6477,15.1701,21.7954
+Male,American Indian / Alaska Native (includes Hispanic),Ages 40-64,Regional,14.7835,1.4852,12.0164,18.0057
+Male,American Indian / Alaska Native (includes Hispanic),Ages 40-64,Distant,11.3196,1.3053,8.9066,14.1923
+Male,American Indian / Alaska Native (includes Hispanic),Ages 40-64,Unstaged,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages 65-74,All Stages,166.7889,13.0778,142.1414,194.4445
+Male,American Indian / Alaska Native (includes Hispanic),Ages 65-74,Localized,69.7054,8.4663,54.106,88.3583
+Male,American Indian / Alaska Native (includes Hispanic),Ages 65-74,Regional,51.6042,7.2075,38.4541,67.787
+Male,American Indian / Alaska Native (includes Hispanic),Ages 65-74,Distant,33.5915,5.9362,22.9798,47.3425
+Male,American Indian / Alaska Native (includes Hispanic),Ages 65-74,Unstaged,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages 75+,All Stages,242.9923,21.7623,202.2139,289.6051
+Male,American Indian / Alaska Native (includes Hispanic),Ages 75+,Localized,72.0393,11.7431,50.8862,99.1068
+Male,American Indian / Alaska Native (includes Hispanic),Ages 75+,Regional,83.5542,12.6509,60.6197,112.3829
+Male,American Indian / Alaska Native (includes Hispanic),Ages 75+,Distant,52.9335,10.2508,34.783,77.1747
+Male,American Indian / Alaska Native (includes Hispanic),Ages 75+,Unstaged,34.4652,8.4006,20.0159,55.1949
+Male,American Indian / Alaska Native (includes Hispanic),Ages < 20,All Stages,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages < 20,Localized,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages < 20,Regional,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Male,American Indian / Alaska Native (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Male,Asian / Pacific Islander (includes Hispanic),All Ages,All Stages,37.8929,0.3861,37.1399,38.6572
+Male,Asian / Pacific Islander (includes Hispanic),All Ages,Localized,14.5488,0.238,14.0861,15.0227
+Male,Asian / Pacific Islander (includes Hispanic),All Ages,Regional,13.2304,0.2283,12.7867,13.6854
+Male,Asian / Pacific Islander (includes Hispanic),All Ages,Distant,7.3953,0.1698,7.0663,7.7356
+Male,Asian / Pacific Islander (includes Hispanic),All Ages,Unstaged,2.7183,0.1073,2.5121,2.9364
+Male,Asian / Pacific Islander (includes Hispanic),Ages < 50,All Stages,6.5887,0.1815,6.2378,6.9541
+Male,Asian / Pacific Islander (includes Hispanic),Ages < 50,Localized,2.006,0.1002,1.8144,2.2122
+Male,Asian / Pacific Islander (includes Hispanic),Ages < 50,Regional,2.6345,0.1148,2.4143,2.8693
+Male,Asian / Pacific Islander (includes Hispanic),Ages < 50,Distant,1.6884,0.0918,1.5132,1.8782
+Male,Asian / Pacific Islander (includes Hispanic),Ages < 50,Unstaged,0.2598,0.0358,0.1944,0.3402
+Male,Asian / Pacific Islander (includes Hispanic),Ages 50-64,All Stages,78.0947,1.2531,75.6577,80.5902
+Male,Asian / Pacific Islander (includes Hispanic),Ages 50-64,Localized,32.6214,0.8132,31.0469,34.2549
+Male,Asian / Pacific Islander (includes Hispanic),Ages 50-64,Regional,26.2061,0.7249,24.8044,27.6664
+Male,Asian / Pacific Islander (includes Hispanic),Ages 50-64,Distant,14.9974,0.5465,13.9453,16.1081
+Male,Asian / Pacific Islander (includes Hispanic),Ages 50-64,Unstaged,4.2698,0.2915,3.7176,4.8811
+Male,Asian / Pacific Islander (includes Hispanic),Ages 65+,All Stages,169.4303,2.4583,164.6461,174.3187
+Male,Asian / Pacific Islander (includes Hispanic),Ages 65+,Localized,64.9218,1.5116,61.9925,67.9546
+Male,Asian / Pacific Islander (includes Hispanic),Ages 65+,Regional,58.5031,1.4462,55.7026,61.4082
+Male,Asian / Pacific Islander (includes Hispanic),Ages 65+,Distant,31.0514,1.0524,29.0226,33.185
+Male,Asian / Pacific Islander (includes Hispanic),Ages 65+,Unstaged,14.9541,0.7476,13.5246,16.4921
+Male,Asian / Pacific Islander (includes Hispanic),Ages <15,All Stages,-,-,-,-
+Male,Asian / Pacific Islander (includes Hispanic),Ages <15,Localized,-,-,-,-
+Male,Asian / Pacific Islander (includes Hispanic),Ages <15,Regional,-,-,-,-
+Male,Asian / Pacific Islander (includes Hispanic),Ages <15,Distant,-,-,-,-
+Male,Asian / Pacific Islander (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Male,Asian / Pacific Islander (includes Hispanic),Ages 15-39,All Stages,3.3282,0.1775,2.9895,3.6945
+Male,Asian / Pacific Islander (includes Hispanic),Ages 15-39,Localized,0.9819,0.0965,0.8019,1.1899
+Male,Asian / Pacific Islander (includes Hispanic),Ages 15-39,Regional,1.3657,0.1139,1.1516,1.6077
+Male,Asian / Pacific Islander (includes Hispanic),Ages 15-39,Distant,0.836,0.0888,0.6711,1.0288
+Male,Asian / Pacific Islander (includes Hispanic),Ages 15-39,Unstaged,0.1446,0.0364,0.0823,0.2355
+Male,Asian / Pacific Islander (includes Hispanic),Ages 40-64,All Stages,50.2816,0.7248,48.8708,51.7231
+Male,Asian / Pacific Islander (includes Hispanic),Ages 40-64,Localized,19.6864,0.4524,18.8096,20.5941
+Male,Asian / Pacific Islander (includes Hispanic),Ages 40-64,Regional,17.608,0.43,16.7752,18.4719
+Male,Asian / Pacific Islander (includes Hispanic),Ages 40-64,Distant,10.4305,0.3311,9.7916,11.1005
+Male,Asian / Pacific Islander (includes Hispanic),Ages 40-64,Unstaged,2.5566,0.1617,2.2494,2.8947
+Male,Asian / Pacific Islander (includes Hispanic),Ages 65-74,All Stages,142.6064,2.8443,137.0856,148.2923
+Male,Asian / Pacific Islander (includes Hispanic),Ages 65-74,Localized,58.5244,1.8129,55.0246,62.1887
+Male,Asian / Pacific Islander (includes Hispanic),Ages 65-74,Regional,49.2535,1.6765,46.022,52.6515
+Male,Asian / Pacific Islander (includes Hispanic),Ages 65-74,Distant,26.4815,1.2283,24.1285,29.0015
+Male,Asian / Pacific Islander (includes Hispanic),Ages 65-74,Unstaged,8.347,0.6957,7.0391,9.8258
+Male,Asian / Pacific Islander (includes Hispanic),Ages 75+,All Stages,198.7814,4.1008,190.8244,206.9851
+Male,Asian / Pacific Islander (includes Hispanic),Ages 75+,Localized,71.922,2.4671,67.1672,76.9244
+Male,Asian / Pacific Islander (includes Hispanic),Ages 75+,Regional,68.6241,2.4099,63.9814,73.5145
+Male,Asian / Pacific Islander (includes Hispanic),Ages 75+,Distant,36.0518,1.7468,32.7089,39.6436
+Male,Asian / Pacific Islander (includes Hispanic),Ages 75+,Unstaged,22.1837,1.368,19.5832,25.0336
+Male,Asian / Pacific Islander (includes Hispanic),Ages < 20,All Stages,-,-,-,-
+Male,Asian / Pacific Islander (includes Hispanic),Ages < 20,Localized,-,-,-,-
+Male,Asian / Pacific Islander (includes Hispanic),Ages < 20,Regional,-,-,-,-
+Male,Asian / Pacific Islander (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Male,Asian / Pacific Islander (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Male,Black (includes Hispanic),All Ages,All Stages,52.4243,0.4488,51.5483,53.3108
+Male,Black (includes Hispanic),All Ages,Localized,18.9553,0.2685,18.4327,19.4884
+Male,Black (includes Hispanic),All Ages,Regional,16.2437,0.2484,15.7604,16.7375
+Male,Black (includes Hispanic),All Ages,Distant,13.3504,0.2246,12.9138,13.7973
+Male,Black (includes Hispanic),All Ages,Unstaged,3.8748,0.1311,3.6221,4.1392
+Male,Black (includes Hispanic),Ages < 50,All Stages,8.4205,0.1903,8.0515,8.8012
+Male,Black (includes Hispanic),Ages < 50,Localized,2.3458,0.1001,2.1537,2.5497
+Male,Black (includes Hispanic),Ages < 50,Regional,3.1516,0.1168,2.9268,3.3884
+Male,Black (includes Hispanic),Ages < 50,Distant,2.5276,0.1043,2.3274,2.7398
+Male,Black (includes Hispanic),Ages < 50,Unstaged,0.3954,0.041,0.3191,0.4837
+Male,Black (includes Hispanic),Ages 50-64,All Stages,104.7429,1.2927,102.2243,107.3079
+Male,Black (includes Hispanic),Ages 50-64,Localized,40.4119,0.8041,38.8512,42.0192
+Male,Black (includes Hispanic),Ages 50-64,Regional,30.9105,0.7019,29.5498,32.3176
+Male,Black (includes Hispanic),Ages 50-64,Distant,27.4869,0.6612,26.206,28.8143
+Male,Black (includes Hispanic),Ages 50-64,Unstaged,5.9336,0.3077,5.3458,6.5684
+Male,Black (includes Hispanic),Ages 65+,All Stages,242.2993,3.0118,236.4319,248.2768
+Male,Black (includes Hispanic),Ages 65+,Localized,88.5974,1.8097,85.0856,92.2187
+Male,Black (includes Hispanic),Ages 65+,Regional,73.8028,1.6501,70.6037,77.1113
+Male,Black (includes Hispanic),Ages 65+,Distant,58.5448,1.4782,55.6831,61.5169
+Male,Black (includes Hispanic),Ages 65+,Unstaged,21.3544,0.9422,19.5474,23.2803
+Male,Black (includes Hispanic),Ages <15,All Stages,-,-,-,-
+Male,Black (includes Hispanic),Ages <15,Localized,-,-,-,-
+Male,Black (includes Hispanic),Ages <15,Regional,-,-,-,-
+Male,Black (includes Hispanic),Ages <15,Distant,-,-,-,-
+Male,Black (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Male,Black (includes Hispanic),Ages 15-39,All Stages,4.2573,0.1894,3.8941,4.6438
+Male,Black (includes Hispanic),Ages 15-39,Localized,1.1863,0.0985,1.0011,1.3945
+Male,Black (includes Hispanic),Ages 15-39,Regional,1.5417,0.1149,1.3247,1.7824
+Male,Black (includes Hispanic),Ages 15-39,Distant,1.2204,0.1016,1.0293,1.4351
+Male,Black (includes Hispanic),Ages 15-39,Unstaged,0.3089,0.0514,0.2164,0.4255
+Male,Black (includes Hispanic),Ages 40-64,All Stages,66.7499,0.7505,65.287,68.2378
+Male,Black (includes Hispanic),Ages 40-64,Localized,24.1395,0.4483,23.2688,25.0351
+Male,Black (includes Hispanic),Ages 40-64,Regional,20.9549,0.4235,20.133,21.802
+Male,Black (includes Hispanic),Ages 40-64,Distant,18.1471,0.3923,17.3862,18.9332
+Male,Black (includes Hispanic),Ages 40-64,Unstaged,3.5084,0.1703,3.1826,3.8594
+Male,Black (includes Hispanic),Ages 65-74,All Stages,207.4604,3.3289,200.9865,214.0893
+Male,Black (includes Hispanic),Ages 65-74,Localized,78.3474,2.0399,74.3997,82.4501
+Male,Black (includes Hispanic),Ages 65-74,Regional,66.2803,1.8806,62.6453,70.071
+Male,Black (includes Hispanic),Ages 65-74,Distant,51.9204,1.6732,48.6923,55.3053
+Male,Black (includes Hispanic),Ages 65-74,Unstaged,10.9123,0.7644,9.4655,12.5173
+Male,Black (includes Hispanic),Ages 75+,All Stages,280.4207,5.1492,270.4184,290.6998
+Male,Black (includes Hispanic),Ages 75+,Localized,99.8131,3.0629,93.8995,106.0036
+Male,Black (includes Hispanic),Ages 75+,Regional,82.034,2.7763,76.6821,87.663
+Male,Black (includes Hispanic),Ages 75+,Distant,65.7934,2.4963,60.9911,70.8747
+Male,Black (includes Hispanic),Ages 75+,Unstaged,32.7802,1.7871,29.3707,36.4751
+Male,Black (includes Hispanic),Ages < 20,All Stages,0.1465,0.0345,0.0868,0.2318
+Male,Black (includes Hispanic),Ages < 20,Localized,-,-,-,-
+Male,Black (includes Hispanic),Ages < 20,Regional,-,-,-,-
+Male,Black (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Male,Black (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
+Male,Hispanic (any race),All Ages,All Stages,39.9743,0.3559,39.2799,40.677
+Male,Hispanic (any race),All Ages,Localized,14.38,0.2124,13.9668,14.8015
+Male,Hispanic (any race),All Ages,Regional,14.0901,0.211,13.6797,14.5088
+Male,Hispanic (any race),All Ages,Distant,8.7377,0.1654,8.4165,9.067
+Male,Hispanic (any race),All Ages,Unstaged,2.7665,0.0983,2.5771,2.9647
+Male,Hispanic (any race),Ages < 50,All Stages,6.0127,0.1194,5.7809,6.251
+Male,Hispanic (any race),Ages < 50,Localized,1.8869,0.0665,1.7587,2.0215
+Male,Hispanic (any race),Ages < 50,Regional,2.2561,0.0734,2.1146,2.4042
+Male,Hispanic (any race),Ages < 50,Distant,1.6192,0.0621,1.4997,1.7452
+Male,Hispanic (any race),Ages < 50,Unstaged,0.2504,0.0243,0.2051,0.3023
+Male,Hispanic (any race),Ages 50-64,All Stages,73.8188,0.9663,71.9369,75.7374
+Male,Hispanic (any race),Ages 50-64,Localized,27.9966,0.5947,26.8431,29.187
+Male,Hispanic (any race),Ages 50-64,Regional,25.5821,0.5693,24.4784,26.7227
+Male,Hispanic (any race),Ages 50-64,Distant,15.8205,0.4476,14.9552,16.7226
+Male,Hispanic (any race),Ages 50-64,Unstaged,4.4196,0.2358,3.9695,4.9069
+Male,Hispanic (any race),Ages 65+,All Stages,194.2711,2.4791,189.4423,199.1923
+Male,Hispanic (any race),Ages 65+,Localized,69.7554,1.4768,66.8907,72.712
+Male,Hispanic (any race),Ages 65+,Regional,68.2125,1.4674,65.3664,71.151
+Male,Hispanic (any race),Ages 65+,Distant,41.0922,1.142,38.8842,43.3931
+Male,Hispanic (any race),Ages 65+,Unstaged,15.2111,0.7124,13.8467,16.672
+Male,Hispanic (any race),Ages <15,All Stages,-,-,-,-
+Male,Hispanic (any race),Ages <15,Localized,-,-,-,-
+Male,Hispanic (any race),Ages <15,Regional,-,-,-,-
+Male,Hispanic (any race),Ages <15,Distant,-,-,-,-
+Male,Hispanic (any race),Ages <15,Unstaged,-,-,-,-
+Male,Hispanic (any race),Ages 15-39,All Stages,3.5861,0.1226,3.3497,3.8342
+Male,Hispanic (any race),Ages 15-39,Localized,1.2061,0.0705,1.0719,1.3521
+Male,Hispanic (any race),Ages 15-39,Regional,1.315,0.0748,1.1724,1.4695
+Male,Hispanic (any race),Ages 15-39,Distant,0.902,0.0616,0.7852,1.0306
+Male,Hispanic (any race),Ages 15-39,Unstaged,0.163,0.026,0.116,0.2222
+Male,Hispanic (any race),Ages 40-64,All Stages,46.4859,0.5361,45.4411,47.5487
+Male,Hispanic (any race),Ages 40-64,Localized,16.8462,0.3228,16.2194,17.491
+Male,Hispanic (any race),Ages 40-64,Regional,16.4541,0.319,15.8347,17.0914
+Male,Hispanic (any race),Ages 40-64,Distant,10.5991,0.2558,10.1035,11.1126
+Male,Hispanic (any race),Ages 40-64,Unstaged,2.5866,0.1263,2.3449,2.8464
+Male,Hispanic (any race),Ages 65-74,All Stages,158.2546,2.7357,152.9377,163.7089
+Male,Hispanic (any race),Ages 65-74,Localized,60.0002,1.6813,56.7499,63.3881
+Male,Hispanic (any race),Ages 65-74,Regional,56.0787,1.6274,52.934,59.3612
+Male,Hispanic (any race),Ages 65-74,Distant,33.5411,1.2656,31.1061,36.1152
+Male,Hispanic (any race),Ages 65-74,Unstaged,8.6347,0.6382,7.4291,9.98
+Male,Hispanic (any race),Ages 75+,All Stages,233.681,4.2418,225.4403,242.1461
+Male,Hispanic (any race),Ages 75+,Localized,80.4297,2.4861,75.6303,85.4543
+Male,Hispanic (any race),Ages 75+,Regional,81.4895,2.5046,76.6539,86.5504
+Male,Hispanic (any race),Ages 75+,Distant,49.3547,1.9498,45.6067,53.3288
+Male,Hispanic (any race),Ages 75+,Unstaged,22.4071,1.3183,19.8974,25.1453
+Male,Hispanic (any race),Ages < 20,All Stages,0.2295,0.0325,0.1703,0.3023
+Male,Hispanic (any race),Ages < 20,Localized,0.1696,0.0279,0.1194,0.2336
+Male,Hispanic (any race),Ages < 20,Regional,-,-,-,-
+Male,Hispanic (any race),Ages < 20,Distant,-,-,-,-
+Male,Hispanic (any race),Ages < 20,Unstaged,-,-,-,-
+Male,Non-Hispanic White,All Ages,All Stages,44.0594,0.1523,43.7615,44.3589
+Male,Non-Hispanic White,All Ages,Localized,16.9347,0.094,16.751,17.12
+Male,Non-Hispanic White,All Ages,Regional,15.4956,0.0906,15.3186,15.6742
+Male,Non-Hispanic White,All Ages,Distant,9.1153,0.0694,8.9798,9.2525
+Male,Non-Hispanic White,All Ages,Unstaged,2.5138,0.0366,2.4426,2.5866
+Male,Non-Hispanic White,Ages < 50,All Stages,8.5415,0.0923,8.3615,8.7245
+Male,Non-Hispanic White,Ages < 50,Localized,2.7535,0.0523,2.6519,2.858
+Male,Non-Hispanic White,Ages < 50,Regional,3.315,0.0576,3.2031,3.4299
+Male,Non-Hispanic White,Ages < 50,Distant,2.1903,0.0468,2.0996,2.284
+Male,Non-Hispanic White,Ages < 50,Unstaged,0.2827,0.0168,0.2508,0.3176
+Male,Non-Hispanic White,Ages 50-64,All Stages,78.2904,0.4673,77.3771,79.2117
+Male,Non-Hispanic White,Ages 50-64,Localized,30.8779,0.2943,30.3038,31.4602
+Male,Non-Hispanic White,Ages 50-64,Regional,27.3622,0.276,26.8238,27.9086
+Male,Non-Hispanic White,Ages 50-64,Distant,17.1101,0.2177,16.686,17.5423
+Male,Non-Hispanic White,Ages 50-64,Unstaged,2.9401,0.0903,2.7657,3.1226
+Male,Non-Hispanic White,Ages 65+,All Stages,206.8081,0.9298,204.9897,208.6385
+Male,Non-Hispanic White,Ages 65+,Localized,81.5876,0.584,80.4468,82.7404
+Male,Non-Hispanic White,Ages 65+,Regional,71.1579,0.5453,70.0931,72.2347
+Male,Non-Hispanic White,Ages 65+,Distant,39.2801,0.4039,38.4924,40.0797
+Male,Non-Hispanic White,Ages 65+,Unstaged,14.7826,0.2509,14.295,15.2825
+Male,Non-Hispanic White,Ages <15,All Stages,0.1947,0.0267,0.1458,0.2547
+Male,Non-Hispanic White,Ages <15,Localized,0.1617,0.0244,0.1175,0.2172
+Male,Non-Hispanic White,Ages <15,Regional,-,-,-,-
+Male,Non-Hispanic White,Ages <15,Distant,-,-,-,-
+Male,Non-Hispanic White,Ages <15,Unstaged,-,-,-,-
+Male,Non-Hispanic White,Ages 15-39,All Stages,4.9703,0.1029,4.7706,5.1761
+Male,Non-Hispanic White,Ages 15-39,Localized,1.7114,0.0598,1.5961,1.8326
+Male,Non-Hispanic White,Ages 15-39,Regional,1.86,0.0632,1.7381,1.988
+Male,Non-Hispanic White,Ages 15-39,Distant,1.2128,0.0512,1.1145,1.3173
+Male,Non-Hispanic White,Ages 15-39,Unstaged,0.1862,0.0199,0.1492,0.2294
+Male,Non-Hispanic White,Ages 40-64,All Stages,53.0239,0.2944,52.4484,53.6043
+Male,Non-Hispanic White,Ages 40-64,Localized,19.6786,0.1773,19.3327,20.0293
+Male,Non-Hispanic White,Ages 40-64,Regional,19.2007,0.1785,18.8524,19.554
+Male,Non-Hispanic White,Ages 40-64,Distant,12.2383,0.1427,11.9602,12.5213
+Male,Non-Hispanic White,Ages 40-64,Unstaged,1.9063,0.0552,1.7997,2.0177
+Male,Non-Hispanic White,Ages 65-74,All Stages,155.5783,1.0291,153.5677,157.6086
+Male,Non-Hispanic White,Ages 65-74,Localized,63.1215,0.656,61.8424,64.4204
+Male,Non-Hispanic White,Ages 65-74,Regional,54.6151,0.6097,53.4265,55.8233
+Male,Non-Hispanic White,Ages 65-74,Distant,31.3265,0.461,30.4294,32.2433
+Male,Non-Hispanic White,Ages 65-74,Unstaged,6.5152,0.2112,6.1079,6.9425
+Male,Non-Hispanic White,Ages 75+,All Stages,262.8646,1.5885,259.7604,265.9966
+Male,Non-Hispanic White,Ages 75+,Localized,101.7934,0.9904,99.8615,103.7532
+Male,Non-Hispanic White,Ages 75+,Regional,89.2593,0.9268,87.452,91.0944
+Male,Non-Hispanic White,Ages 75+,Distant,47.983,0.6789,46.6615,49.3323
+Male,Non-Hispanic White,Ages 75+,Unstaged,23.8289,0.4718,22.9131,24.7721
+Male,Non-Hispanic White,Ages < 20,All Stages,0.3863,0.0319,0.3264,0.4543
+Male,Non-Hispanic White,Ages < 20,Localized,0.3207,0.0291,0.2663,0.3831
+Male,Non-Hispanic White,Ages < 20,Regional,0.0501,0.0115,0.0302,0.0784
+Male,Non-Hispanic White,Ages < 20,Distant,-,-,-,-
+Male,Non-Hispanic White,Ages < 20,Unstaged,-,-,-,-
+Male,White (includes Hispanic),All Ages,All Stages,43.4462,0.1391,43.174,43.7197
+Male,White (includes Hispanic),All Ages,Localized,16.5741,0.0857,16.4065,16.7429
+Male,White (includes Hispanic),All Ages,Regional,15.2844,0.0826,15.123,15.4471
+Male,White (includes Hispanic),All Ages,Distant,9.0477,0.0633,8.924,9.1728
+Male,White (includes Hispanic),All Ages,Unstaged,2.54,0.0342,2.4734,2.6079
+Male,White (includes Hispanic),Ages < 50,All Stages,7.9118,0.0757,7.7642,8.0615
+Male,White (includes Hispanic),Ages < 50,Localized,2.5259,0.0426,2.4431,2.6108
+Male,White (includes Hispanic),Ages < 50,Regional,3.0574,0.0471,2.9657,3.1511
+Male,White (includes Hispanic),Ages < 50,Distant,2.0567,0.0386,1.9817,2.1338
+Male,White (includes Hispanic),Ages < 50,Unstaged,0.2718,0.014,0.2451,0.3007
+Male,White (includes Hispanic),Ages 50-64,All Stages,77.7576,0.4244,76.928,78.5939
+Male,White (includes Hispanic),Ages 50-64,Localized,30.4529,0.2663,29.9332,30.9794
+Male,White (includes Hispanic),Ages 50-64,Regional,27.1973,0.2507,26.7081,27.6933
+Male,White (includes Hispanic),Ages 50-64,Distant,16.9869,0.1978,16.6013,17.3791
+Male,White (includes Hispanic),Ages 50-64,Unstaged,3.1204,0.0849,2.9562,3.2914
+Male,White (includes Hispanic),Ages 65+,All Stages,206.1944,0.8773,204.4784,207.9211
+Male,White (includes Hispanic),Ages 65+,Localized,80.5422,0.5482,79.4713,81.6238
+Male,White (includes Hispanic),Ages 65+,Regional,71.158,0.5152,70.1518,72.1749
+Male,White (includes Hispanic),Ages 65+,Distant,39.6561,0.3836,38.9077,40.4153
+Male,White (includes Hispanic),Ages 65+,Unstaged,14.8381,0.238,14.3753,15.312
+Male,White (includes Hispanic),Ages <15,All Stages,0.1619,0.0198,0.1255,0.2056
+Male,White (includes Hispanic),Ages <15,Localized,0.1329,0.0179,0.1001,0.173
+Male,White (includes Hispanic),Ages <15,Regional,-,-,-,-
+Male,White (includes Hispanic),Ages <15,Distant,-,-,-,-
+Male,White (includes Hispanic),Ages <15,Unstaged,-,-,-,-
+Male,White (includes Hispanic),Ages 15-39,All Stages,4.5798,0.0821,4.4203,4.7434
+Male,White (includes Hispanic),Ages 15-39,Localized,1.5568,0.0474,1.4653,1.6524
+Male,White (includes Hispanic),Ages 15-39,Regional,1.7074,0.0504,1.6101,1.809
+Male,White (includes Hispanic),Ages 15-39,Distant,1.1356,0.0411,1.0564,1.219
+Male,White (includes Hispanic),Ages 15-39,Unstaged,0.18,0.0162,0.1495,0.2146
+Male,White (includes Hispanic),Ages 40-64,All Stages,51.7409,0.2587,51.2352,52.2506
+Male,White (includes Hispanic),Ages 40-64,Localized,19.1278,0.156,18.8233,19.4361
+Male,White (includes Hispanic),Ages 40-64,Regional,18.6894,0.1562,18.3844,18.9982
+Male,White (includes Hispanic),Ages 40-64,Distant,11.9471,0.1252,11.703,12.1951
+Male,White (includes Hispanic),Ages 40-64,Unstaged,1.9767,0.0501,1.8797,2.0774
+Male,White (includes Hispanic),Ages 65-74,All Stages,156.3837,0.971,154.4862,158.2985
+Male,White (includes Hispanic),Ages 65-74,Localized,62.9537,0.6164,61.7514,64.1736
+Male,White (includes Hispanic),Ages 65-74,Regional,55.0848,0.5762,53.9612,56.2258
+Male,White (includes Hispanic),Ages 65-74,Distant,31.6362,0.4362,30.7869,32.5029
+Male,White (includes Hispanic),Ages 65-74,Unstaged,6.7089,0.2016,6.3196,7.1159
+Male,White (includes Hispanic),Ages 75+,All Stages,260.6981,1.4989,257.7684,263.6527
+Male,White (includes Hispanic),Ages 75+,Localized,99.7877,0.929,97.9752,101.6252
+Male,White (includes Hispanic),Ages 75+,Regional,88.7455,0.8755,87.0378,90.4782
+Male,White (includes Hispanic),Ages 75+,Distant,48.4317,0.6462,47.1732,49.7151
+Male,White (includes Hispanic),Ages 75+,Unstaged,23.7332,0.447,22.8652,24.6259
+Male,White (includes Hispanic),Ages < 20,All Stages,0.3401,0.0244,0.2939,0.3915
+Male,White (includes Hispanic),Ages < 20,Localized,0.2753,0.022,0.2339,0.3219
+Male,White (includes Hispanic),Ages < 20,Regional,0.049,0.0093,0.0326,0.0709
+Male,White (includes Hispanic),Ages < 20,Distant,-,-,-,-
+Male,White (includes Hispanic),Ages < 20,Unstaged,-,-,-,-
